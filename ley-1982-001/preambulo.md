@@ -1,0 +1,2 @@
+El articulo 8.º del Estatuto de Autonomía para Galicia determina que «una Ley de Galicia para cuya aprobación se requerirá el voto favorable de las dos terceras partes de los miembros de su Parlamento, fijará la sede de las instituciones autonómicas».
+En cumplimiento de lo dispuesto en dicho precepto, el Parlamento de Galicia con el quórum requerido ha aprobado y yo vengo en promulgar en nombre del Rey, la siguiente Ley:
