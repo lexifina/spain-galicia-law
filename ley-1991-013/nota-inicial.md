@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 12 de diciembre de 2003, excepto sus disposiciones adicionales 1 y 2, por la disposición derogatoria única de la Ley 6/2003, de 9 de diciembre. Ref. BOE-A-2004-741#ddunica
