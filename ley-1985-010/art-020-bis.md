@@ -1,0 +1,4 @@
+Artículo 20 bis.
+1. Publicado el Decreto de concentración parcelaria, el Servicio Provincial correspondiente habrá de comunicar los planes de actuaciones previstas sobre la zona a concentrar al Registro de la Propiedad que corresponda, así como a todos aquellos Departamentos de la Administración autonómica que pudiesen resultar afectados por la concentración, a fin de que, en un plazo máximo de dos meses, quede debidamente reflejada en el expediente de concentración cualquier incidencia que pudiera surgir.
+2. La Comisión interdepartamental que anteriormente realizó el estudio de viabilidad emitirá un informe sobre los planes de actuación previstos en la concentración y su afectación a las distintas áreas de ordenación territorial, medio ambiente, patrimonio, etc.
+Se añade por el art. 1 de la Ley 12/2001, de 10 de septiembre. Ref. BOE-A-2001-21174.

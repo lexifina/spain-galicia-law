@@ -1,0 +1,4 @@
+Artículo 46 bis.
+1. Firme el acuerdo de concentración parcelaria a que se refiere el artículo 33, la dirección general correspondiente de la Consejería competente en materia de agricultura autorizará el acta de reorganización de la propiedad, en la cual se relacionarán y describirán las fincas resultantes de la concentración, con las circunstancias necesarias para su inscripción en el Registro de la Propiedad, los derechos reales y situaciones jurídicas que hayan sido determinados en el período de investigación y la finca sobre la que hayan de establecerse, así como los nuevos derechos reales que se constituyan en las nuevas fincas de reemplazo.
+2. La inscripción de los títulos de concentración en el Registro de la Propiedad se regirá por lo dispuesto en la legislación del Estado en la materia.
+Se añade por el art. 1 de la Ley 12/2001, de 10 de septiembre. Ref. BOE-A-2001-21174.

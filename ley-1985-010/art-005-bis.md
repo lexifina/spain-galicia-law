@@ -1,0 +1,6 @@
+Artículo 5 bis.
+A los efectos de la presente Ley, se entiende por explotación agraria o lugar acasarado el que comprende la casa de labor, edificaciones, dependencias y terrenos, aunque no sean colindantes, así como toda clase de ganado, maquinaria, aperos de labranza e instalaciones que constituyan una unidad orgánica de explotación agropecuaria y forestal.
+Asimismo, se entiende por dimensión económicamente viable de una zona la superficie cultivada por un lugar acasarado, compañía familiar o explotación agraria por debajo de la cual, teniendo en cuenta los cultivos y la producción de la misma, no puede obtenerse la rentabilidad necesaria que permita un nivel de vida digno a una familia media.
+Los titulares de explotaciones agrarias a tiempo parcial que obtengan, al menos, un 25 por 100 de sus ingresos procedentes de actividades agrarias tendrán la misma consideración a efectos de la presente Ley que los otros propietarios.
+Los lotes de reemplazo que se adjudiquen con carácter definitivo a las explotaciones integrados por las tierras en propiedad y las llevadas en diversas formas de tenencia constituirán las nuevas explotaciones agrarias de la zona.
+Se modifica por el art. 1 de la Ley 12/2001, de 10 de septiembre. Ref. BOE-A-2001-21174.
