@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta norma por providencia del TC de 27 de noviembre de 1985, que admite a tramite el recurso de inconstitucionalidad numero 1036/1985. Ref. BOE-A-1985-26010
