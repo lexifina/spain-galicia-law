@@ -1,0 +1,15 @@
+El Consejo Económico y Social de Galicia se crea como ente consultivo de la Junta de Galicia en materia socioeconómica en aplicación de lo previsto en el artículo 9.2.º de la Constitución española y en los artículos 4.2.º y 55.4.º del Estatuto de Autonomía de Galicia, al objeto de facilitar la participación de todos los gallegos en la vida política, económica, social y cultural.
+Por otra parte, el Consejo Económico y Social responde también a la aspiración de los agentes económicos y sociales de que sus opiniones y propuestas se atiendan, en el proceso de adopción de decisiones por la Junta de Galicia, y a la pretensión de ésta de canalizar la participación social a tales efectos.
+Se configura, asimismo, como foro permanente de diálogo y deliberación entre los agentes económicos y sociales y la Junta de Galicia, en la medida en que constituye el único órgano en donde está representado un amplio conjunto de organizaciones socio-profesionales, sin perjuicio del campo singular reservado al Consejo Gallego de Relaciones Laborales.
+Los principios básicos que informan esta Ley del Consejo Económico y Social son los siguientes:
+El Consejo Económico y Social se constituye como un órgano de carácter consultivo en materia socioeconómica.
+Dicha función consultiva se ejercerá en una triple vertiente:
+Con carácter preceptivo, en relación con la actividad normativa de la Junta de Galicia en materias de especial trascendencia económico-social.
+Con carácter facultativo, a instancia del Gobierno gallego o de sus miembros.
+Además, a iniciativa propia, a través de estudios e informes o propuestas de reformas normativas.
+El texto de la norma contempla también la posibilidad de que el Consejo emita su parecer sobre la ejecución de los grandes planes económicos y sociales.
+En el mismo estarán representadas las organizaciones sindicales y empresariales más significativas, así como otras organizaciones o fuerzas sociales representativas de intereses diversos.
+No se contempla la participación de representantes del Gobierno, dado el carácter consultivo del Consejo Económico y Social y la necesidad, por tanto, de garantizar su independencia en la formación y emisión de sus criterios. En base a esta necesaria autonomía funcional se dota de amplias facultades de autoorganización.
+Se destaca, asimismo, la posibilidad de que el Consejo Económico y Social pueda constituirse en foro de debate, para tratar problemas específicos que afecten a sectores estratégicos de Galicia, al objeto de definir, por vía de consenso, una determinada línea de actuación.
+A través de un Gabinete Técnico, formado por expertos, se pretende garantizar la imprescindible calidad técnica de sus trabajos. Los expertos habrán de tener especial preparación y reconocida experiencia en temas socioeconómicos y desarrollarán su función con independencia.
+Por todo lo expuesto, el Parlamento de Galicia aprobó y yo, de conformidad con el artículo 13.2.º del Estatuto de Galicia y con el artículo 24 de la Ley 1/1983, de 23 de febrero, reguladora de la Junta y de su Presidente, promulgo en nombre del Rey, la Ley por la que se crea el Consejo Económico y Social de Galicia.
