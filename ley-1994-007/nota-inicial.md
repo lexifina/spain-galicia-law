@@ -1,0 +1,1 @@
+Téngase en cuenta que el Instituto Lácteo y Ganadero de Galicia pasa a denominarse Fondo Gallego de Garantía Agraria (FOGGA), según establece la disposición adicional 5 de la Ley 7/2002, de 27 de diciembre. Ref. BOE-A-2003-1810
