@@ -1,0 +1,2 @@
+Disposición adicional única.
+Mediante disposición de rango legal podrá procederse, en el marco de lo establecido en la normativa básica estatal, y de acuerdo con lo señalado en el artículo 27 del Estatuto de autonomía de Galicia, al desarrollo de las previsiones contenidas en el título X de la Ley 7/1985, de 2 de abril, reguladora de las bases de régimen local, a fin de adaptarlas a las peculiaridades y circunstancias específicas de los municipios gallegos a las que aquél resulte de aplicación.
