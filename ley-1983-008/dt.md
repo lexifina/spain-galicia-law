@@ -1,0 +1,3 @@
+Disposición transitoria.
+En el plazo de un mes a partir de la entrada en vigor de la presente Ley, el Consejo de la Cultura Gallega será constituido provisionalmente, bajo la presidencia del Consejero de Cultura, por los miembros que hubieran sido designados de acuerdo con el apartado e) del artículo 3, que en el plazo de un mes procederán a elegir las personalidades que forman parte del apartado f) del artículo 3.
+En el mes siguiente al día en el que se produzca la elección a que se refiere el apartado anterior, se procederá a la constitución formal del Consejo bajo la presidencia de honor del Presidente de la Junta de Galicia.
