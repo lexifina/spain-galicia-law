@@ -1,0 +1,2 @@
+Artículo único.
+De conformidad con la disposición final segunda de la Ley 1/2004, de 21 de abril, de modificación de las leyes 7/1985, de 17 de julio, de cajas de ahorros gallegas, y 4/1996, de 31 de mayo, de cajas de ahorros de Galicia, para adaptarlas a la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, se aprueba el texto refundido de las Leyes 7/1985, de 17 de julio, y 4/1996, de 31 de mayo, de cajas de ahorros de Galicia, que se inserta a continuación.
