@@ -1,0 +1,2 @@
+Disposición transitoria única. Representatividad de las organizaciones profesionales agrarias.
+A los efectos de lo dispuesto en el apartado e) del artículo 4.º, y en tanto no sean convocados nuevos procesos electorales, tendrán la consideración de organizaciones profesionales agrarias más representativas aquéllas que concurrieron a las elecciones a Cámaras Agrarias celebradas el 26 de mayo de 2002 y alcanzaron un porcentaje de votos superior al 15 por 100, distribuyéndose los Vocales de forma paritaria entre todas ellas.
