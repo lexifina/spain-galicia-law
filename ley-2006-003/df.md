@@ -1,0 +1,2 @@
+Disposición final.
+La presente ley entrará en vigor a los veinte días de su publicación en el «Diario Oficial de Galicia».

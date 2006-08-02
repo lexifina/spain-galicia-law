@@ -1,0 +1,2 @@
+Disposición adicional.
+Quedan exceptuados de la incorporación obligatoria al Colegio Profesional de Logopedas de Galicia los profesionales titulados vinculados con la Administración pública mediante relación de servicios de carácter administrativo o laboral, para el ejercicio de funciones puramente administrativas o para la realización de actividades propias de la correspondiente profesión por cuenta de la Administración a que pertenezcan, cuando el destinatario inmediato de las mismas sea esa Administración.
