@@ -1,0 +1,2 @@
+Disposición adicional. Sobre la colegiación obligatoria.
+Quedan exceptuadas de la incorporación obligatoria al Colegio Profesional de Higienistas Dentales de Galicia aquellas personas profesionales tituladas vinculadas con la administración pública mediante relación de servicios de carácter administrativo o laboral, para el ejercicio de funciones puramente administrativas y para la realización de actividades propias de la correspondiente profesión por cuenta de la administración a que pertenezcan, cuando el destinatario inmediato de las mismas sea esa administración.
