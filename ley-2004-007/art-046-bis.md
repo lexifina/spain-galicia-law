@@ -1,0 +1,3 @@
+Artículo 46 bis. Permiso por enfermedad grave.
+La Administración pública gallega reconoce el derecho del personal a su servicio con hijos/hijas, acogidos/acogidas o convivientes menores de edad, o con familiares que, por sus enfermedades o avanzada edad, necesiten la asistencia de otras personas, a un permiso retribuido con una duración máxima de treinta días en los supuestos de accidente muy grave o enfermedad muy grave del o la menor de edad o del o la familiar conviviente. Cada accidente o enfermedad generará un único permiso, que, dentro de la duración máxima de treinta días, podrá utilizarse de manera separada o acumulada.
+Se añade por la disposición adicional 1.2.12 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
