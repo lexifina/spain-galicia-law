@@ -1,0 +1,1 @@
+Esta ley pasa a denominarse "Ley 1/1983, de 22 de febrero, de normas reguladoras de la Xunta y de su presidencia", según establece la disposición adicional 8.1 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
