@@ -1,0 +1,2 @@
+Disposición adicional única. Sobre la colegiación obligatoria.
+Quedan exceptuadas de la incorporación obligatoria al Colegio Oficial de Ingenieras e Ingenieros Químicos de Galicia las personas profesionales tituladas vinculadas con la Administración pública mediante relación de servicios de carácter administrativo o laboral, para el ejercicio de funciones puramente administrativas y la realización de actividades propias de la correspondiente profesión a cuenta de la administración a la cual pertenezcan, cuando el destinatario inmediato de aquéllas sea esa administración.
