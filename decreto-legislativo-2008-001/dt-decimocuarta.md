@@ -1,0 +1,8 @@
+Disposición transitoria decimocuarta.
+Dentro del marco de las medidas de reducción de la temporalidad y con el objeto de aumentar la estabilidad en el empleo público en la Administración general de la Xunta de Galicia, la comunidad autónoma gallega desarrollará, por una sola vez por plaza, un proceso selectivo de carácter extraordinario para la substitución de empleo interino o temporal por empleo fijo.
+Será aplicable a estos procesos lo dispuesto en el artículo 63.º 2 de esta ley.
+El proceso afectará a aquellas plazas que estén cubiertas, interina o temporalmente, con anterioridad al 1 de enero de 2005 y que continúen, temporal o interinamente, cubiertas en el momento de la convocatoria.
+Las plazas que en el momento de la entrada en vigor de esta disposición estén en la situación prevista en el párrafo anterior se reservarán para su oferta en los procesos extraordinarios que se realicen.
+Los procesos selectivos respetarán, en todo caso, los principios de igualdad, mérito, capacidad y publicidad y se efectuarán por el sistema de concurso-oposición abierto.
+El contenido de las pruebas guardará relación con los procedimientos, las tareas y las funciones habituales de los puestos objeto de cada convocatoria. En la fase de concurso se podrán valorar, entre otros méritos, el tiempo de servicios prestados en las administraciones públicas y la experiencia en los puestos de trabajo objeto de la convocatoria.
+La valoración de méritos de las personas que superasen la fase de oposición sólo podrá otorgar una puntuación proporcionada, que no determinará, por sí misma, el resultado del proceso selectivo.

@@ -1,0 +1,4 @@
+Disposición adicional decimosexta.
+El personal que, con efectos anteriores al 7 de octubre de 1996, tuviese reconocida la condición de indefinido en su relación laboral por sentencia judicial firme o por resolución de la Subsecretaría de Trabajo y Asuntos Sociales de 24 de julio de 1997 en virtud de las previsiones contenidas en el Plan de empleo del Instituto Nacional de Empleo tendrá los mismos derechos que el personal laboral fijo.
+Este personal será objeto de funcionarización mediante un procedimiento selectivo que respete los principios de igualdad, mérito y capacidad. El personal que no participe o que, participando, no supere el proceso de funcionarización, conservará todos sus derechos como personal laboral de la Xunta de Galicia.
+El proceso de funcionarización se deberá iniciar en el plazo máximo de doce meses a partir de la entrada en vigor de esta ley.

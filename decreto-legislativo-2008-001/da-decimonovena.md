@@ -1,0 +1,2 @@
+Disposición adicional decimonovena.
+El personal funcionario o estatutario que acceda al desempeño de puestos directivos será declarado en su puesto de origen en la situación administrativa de servicios especiales. El desempeño de los servicios prestados en los citados puestos será computado para los procesos de selección y provisión como prestados en la plaza de origen, así como a efectos de trienios y determinación del grado de desarrollo profesional.
