@@ -38,6 +38,10 @@ Tipo de procedimiento: Autorización/concesión de aprovechamiento de recursos m
 Plazo de duración: Treinta y seis meses.
 Normativa reguladora: Ley estatal 22/1973, de 21 de julio, de Minas, modificada por la Ley 54/1980, de 5 de noviembre.
 Reglamento General para el Régimen de la Minería, aprobado por el Real Decreto 2857/1978, de 25 de agosto.
+Consejería de Innovación e Industria
+Tipo de procedimiento: expediente sancionador o de caducidad en materia de minas.
+Plazo de duración: doce meses.
+Normativa reguladora: Ley de ordenación de la minería de Galicia.
 Consellería de Agricultura, Ganadería y Política Agroalimentaria. Consellería de Cultura, Comunicación Social y Turismo
 Tipo de procedimiento: Concesión de emisoras municipales y comerciales de radiodifusión sonora en ondas métricas con modulación de frecuencia.
 Plazo de duración: Tres años.
@@ -65,6 +69,7 @@ Ley 13/1989, de 10 de octubre, de Montes Vecinales en Mancomún.
 Tipo de procedimiento: Inclusión en el Registro de Espacios Naturales de Galicia.
 Plazo de duración: Un año.
 Normativa reguladora: Decreto 82/1989, de 11 de mayo, por el que se regula la figura del Espacio Natural en Régimen de Protección General.
+Se modifica por la disposición final 1 de la Ley 3/2008, de 23 de mayo. Ref. BOE-A-2008-11587#df
 ANEXO II
 Relación de procedimientos en que el silencio administrativo produce efectos desestimatorios
 Consellería de la Presidencia y Administración Pública
