@@ -1,0 +1,3 @@
+Disposición transitoria única. Fecha de inicio de mandato.
+A los efectos de lo establecido en el artículo 4, se tomará como fecha de inicio del mandato de las personas miembros representativas del Consejo Gallego de Relaciones Laborales, de que habla el artículo 5, el 31 de diciembre del año anterior a aquél en que entre en vigor la presente ley.
+Al mismo tiempo, la fecha de inicio, a efectos de cómputo del mandato de la Presidencia del Consejo Gallego de Relaciones Laborales, una vez producida la entrada en vigor de la ley, será la del 31 de diciembre, en los mismos términos a que se refiere el párrafo anterior.
