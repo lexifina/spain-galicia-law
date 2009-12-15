@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el DOG núm. 136, de 19 de julio de 1993. Ref. DOG-g-1993-90252
+Se declara la vigencia de esta norma, con efectos de 15 de diciembre de 2009 por la disposición adicional única.a) de la Ley 6/2009, de 11 de diciembre. Ref. BOE-A-2010-1706, que había sido derogada, con efectos de 16 de diciembre de 2009, por la disposición derogatoria única de la Ley 11/2008, de 3 de diciembre. Ref. BOE-A-2009-805
