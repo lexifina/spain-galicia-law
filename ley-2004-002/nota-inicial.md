@@ -1,1 +1,1 @@
-Se declara la vigencia de esta norma, con efectos de 15 de diciembre de 2009 por la disposición adicional única.b) de la Ley 6/2009, de 11 de diciembre. Ref. BOE-A-2010-1706, que había sido derogada, con efectos de 16 de diciembre de 2009, por la disposición derogatoria única.c) de la Ley 11/2008, de 3 de diciembre. Ref. BOE-A-2009-805
+Norma derogada, con efectos de 16 de diciembre de 2009, por la disposición final 4 de la Ley 11/2008, de 3 de diciembre. Ref. BOE-A-2009-805

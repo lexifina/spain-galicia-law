@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Adscripción del dominio público marítimo.
+En el supuesto de adscripción del dominio público marítimo a la Comunidad Autónoma de Galicia para el desarrollo de actividades acuícolas, corresponderá a la consejería competente en materia de acuicultura regular el ejercicio de la actividad en los espacios adscritos, adecuando los títulos administrativos habilitantes al contenido de lo dispuesto en la presente ley y en la legislación reguladora del dominio público marítimo-terrestre.
