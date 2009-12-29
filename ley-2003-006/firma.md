@@ -2,7 +2,8 @@ Santiago de Compostela, 9 de diciembre de 2003.
 MANUEL FRAGA IRIBARNE,
 Presidente
 ANEXOS
-[Anexos 1 a 5 omitidos. Consulte el PDF original]
+[Anexos 1 a 5 omitidos. Consulte el PDF original] y sus modificaciones:
+Anexos 3 por Ley 7/2009, de 22 de diciembre. Ref. BOE-A-2010-1707
 ANEXO 1
 Tasa por servicios administrativos
  | Euros
