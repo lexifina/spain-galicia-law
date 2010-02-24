@@ -1,0 +1,6 @@
+Artículo 10 quinquies. Visado.
+1. Los colegios profesionales tendrán a disposición de los consumidores y usuarios, prestado con medios propios o ajenos, un servicio de visado de los trabajos realizados por sus colegiados.
+2. El visado garantiza, al menos, la corrección e integridad formal de la documentación del trabajo profesional, el cumplimiento de las normas sobre especificaciones técnicas, así como la observancia del resto de la normativa aplicable al trabajo de que se trate. En ningún caso comprenderá los honorarios ni las demás condiciones contractuales, cuya determinación queda sujeta al libre acuerdo entre las partes.
+3. En caso de daños derivados de los trabajos que hubiera visado el colegio, en que resulte responsable el autor de los mismos, el colegio responderá subsidiariamente en cuanto los daños tengan su origen en defectos formales o técnicos que razonablemente deberían haber sido puestos de manifiesto por el colegio al visar el trabajo profesional.
+4. Cuando el visado venga impuesto por la ley, su precio se ajustará al coste del servicio, el cual habrá de ser razonable, no abusivo ni discriminatorio. Los colegios profesionales harán públicos los precios de los visados de los trabajos, que podrán tramitarse por vía telemática.
+Se añade por el art. 2.10 de la Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665.
