@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Autorización para no liquidación y anulación de deudas.
+Se autoriza al consejero competente en materia de aguas para disponer la no liquidación de deudas o la anulación y baja en contabilidad de deudas ya liquidadas en concepto del canon del agua y del coeficiente de vertido cuando su ejecución resulte antieconómica. A estos efectos, la mencionada consejería determinará el límite cuantitativo en que se considere que se produce aquel efecto.

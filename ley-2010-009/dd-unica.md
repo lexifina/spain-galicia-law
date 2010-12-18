@@ -1,0 +1,3 @@
+Disposición derogatoria única.
+1. Queda derogada la Ley 8/1993, de 23 de junio, reguladora de la Administración hidráulica de Galicia, con sus modificaciones posteriores, así como la Ley 8/2001, de 2 de agosto, de protección de la calidad de las aguas de las rías de Galicia y de ordenación del servicio público de depuración de aguas residuales urbanas, sin perjuicio de lo señalado en la disposición transitoria segunda con respecto a la vigencia del canon de saneamiento.
+2. Igualmente quedan derogadas cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley.
