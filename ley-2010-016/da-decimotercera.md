@@ -1,0 +1,4 @@
+Disposición adicional decimotercera. Participación institucional.
+En los órganos de participación institucional constituidos en el seno de la Administración de la Comunidad Autónoma y de las entidades instrumentales integrantes del sector público tendrán derecho a participar los sindicatos que estén presentes en la Mesa General de Negociación de las Administraciones Públicas.
+Lo señalado en el párrafo anterior tendrá aplicación directa desde la entrada en vigor de la presente ley, a todos los efectos, y concretamente asumirán la totalidad de deberes y derechos recogidos en los títulos II y III de la Ley 17/2008, de participación institucional de las organizaciones sindicales y empresariales más representativas de Galicia.
+En el caso de tener que incorporar representación de nuevas organizaciones sindicales, se hará sin reducir el número actual que corresponda a cada una de las ya presentes e incorporando los que corresponda según la nueva regulación.
