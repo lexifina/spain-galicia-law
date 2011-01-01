@@ -349,6 +349,26 @@ Normativa reguladora: Orden de 23 de octubre de 1998, de regulación de los cent
 Tipo de procedimiento: Autorización y/o acreditación de centros, servicios y establecimientos sanitarios.
 Sentido del silencio: Negativo.
 Normativa reguladora: Decreto 147/1994, de 13 de septiembre, sobre Autorización de Centros, Servicios y Establecimientos Sanitarios.
+Consellería de Sanidad (Servicio Gallego de Salud)
+Tipos de procedimientos: solicitudes, reclamaciones o recursos en materia de personal, con contenido retributivo, planteados por los profesionales del Servicio Gallego de Salud, que tengan repercusión en el capítulo I de los estados de gastos de los presupuestos de las instituciones sanitarias del organismo.
+Sentido del silencio: negativo.
+Normativa reguladora:
+Ley 55/2003, de 16 de diciembre, del Estatuto marco del personal estatutario de los servicios de salud.
+Ley estatal 7/2007, de 12 de abril, del Estatuto básico del empleado público.
+Ley 8/2008, de 10 de julio, de salud de Galicia.
+Real decreto-ley 3/1987, de 11 de septiembre, sobre retribuciones del personal estatutario del Instituto Nacional de la Salud.
+Decreto 226/1996, de 25 de abril, por el que se regula el régimen retributivo del personal de las unidades y servicios de atención primaria; modificado por el Decreto 156/2005, de 9 de junio.
+Orden estatal de 8 de agosto de 1986 por la que se fijan las retribuciones del personal dependiente del Instituto Nacional de la Salud, del Instituto Catalán de la Salud y de la Red Sanitaria de la Seguridad Social de Andalucía; modificada por la Orden de 4 de diciembre de 1986.
+Real decreto 1146/2006, de 6 de octubre, por el que se regula la relación laboral especial de residencia para la formación de especialistas en ciencias de la salud.
+Orden de 4 de junio de 2008 por la que se publican determinados acuerdos sobre ordenación y provisión de puestos de trabajo y condiciones de trabajo y retributivas en el ámbito de la atención primaria del Servicio Gallego de Salud.
+Resolución de 1 de marzo de 2001 por la que se ordena la publicación del Acuerdo de concertación social sobre retribuciones y condiciones de trabajo del personal sanitario no facultativo y del personal no sanitario del Servicio Gallego de Salud.
+Resolución de 18 de noviembre de 2003 por la que se ordena la publicación del Acuerdo sobre mejora retributiva y profesional del personal de las instituciones sanitarias del Servicio Gallego de Salud.
+Orden de 1 de diciembre de 2008 por la que se publica el Acuerdo 2008-2012 para la mejora de las condiciones de trabajo y retributivas del personal estatutario del Servicio Gallego de Salud.
+Decreto 155/2005, de 9 de junio, sobre un régimen extraordinario de reconocimiento del desarrollo profesional del personal estatutario de las categorías de licenciados sanitarios del Servicio Gallego de Salud previo a la implantación del régimen de desarrollo profesional a que se refiere la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.
+Resolución de 28 de julio de 2006 por la que se ordena la publicación del Acuerdo por el que se regulan el acceso extraordinario a la carrera profesional del personal diplomado sanitario y las bases de negociación del régimen definitivo de carrera profesional.
+Resolución de 25 de octubre de 2007 por la que se ordena la publicación del Acuerdo por el que se regula el acceso extraordinario a la carrera profesional del personal de las categorías de gestión y servicios y sanitarias de formación profesional con vínculo estatutario fijo en las instituciones sanitarias del Servicio Gallego de Salud.
+Orden de 24 de mayo de 2006 por la que se desarrolla el procedimiento para el reconocimiento de la consolidación de grado personal para determinadas categorías de personal estatutario fijo.
+Orden de 16 de abril de 2008 por la que se regula el procedimiento de reconocimiento de trienios al personal estatutario temporal del Servicio Gallego de Salud.
 Consellería de Pesca, Marisqueo y Acuicultura
 Tipo de procedimiento: Autorización para nuevas construcciones y modernización de barcos pesqueros. Sentido del silencio: Negativo.
 Normativa reguladora: Real Decreto 1027/1989, de 28 de julio, sobre Abanderamiento, Matriculación de Buques y Registro Marítimo.
@@ -493,9 +513,9 @@ Ley 13/1989, de 10 de octubre, de Montes Vecinales en Mancomún.
 Tipo de procedimiento: Inclusión en el registro de espacios naturales de Galicia.
 Sentido del silencio: Negativo.
 Normativa reguladora: Decreto 82/1989, de 11 de mayo, por el que se regula la figura de espacio natural en régimen de protección general.
-Tipo de procedimiento: Autorización de actividades, obras, instalaciones y usos permitidos en la zona de servidumbre de protección del dominio marítimo-terrestre. Sentido del silencio: Negativo.
-Normativa reguladora: Ley 22/1988, de 28 de julio, de Costas.
-Real Decreto 1471/1989, de 1 de diciembre, por el que se aprueba el Reglamento General para el Desarrollo y Ejecución de la Ley 22/1988, de 28 de julio, de Costas.
+Tipo de procedimiento: Autorización de actividades, obras, instalaciones y usos permitidos en la zona de servidumbre de protección del dominio marítimo-terrestre.
+Sentido del silencio: Negativo, por razones de protección del medio ambiente, con arreglo a lo establecido en el artículo 24 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, salvo en los casos de solicitud de autorización de aprovechamientos de masas forestales pobladas de las especies que no estén incluidas en el anexo I de la Ley 7/2012, de 28 de junio, de montes de Galicia, en cuyo caso el sentido del silencio será positivo, siempre que no constasen en el procedimiento informes emitidos por los órganos competentes en materia de protección del litoral que sean contrarios al aprovechamiento forestal pretendido, y sin perjuicio de la obligación de reforestación eficaz de acuerdo con lo establecido en la normativa básica estatal en materia de costas.
+Normativa reguladora: Ley 22/1988, de 28 de julio, de costas, y Ley 7/2012, de 28 de junio, de montes de Galicia.
 Tipo de procedimiento: Permisos para la realización de quemas.
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 81/1968, de 5 de diciembre, de Incendios Forestales.
@@ -563,3 +583,4 @@ Decreto 153/1998, de 2 de abril, por el que se aprueba el Reglamento que desarro
 Real Decreto 439/1990, de 30 de marzo, por el que se regula el Catálogo Nacional de Especies Amenazadas. Tipo de procedimiento: Excepciones a las prohibiciones genéricas en materia de caza.
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 4/1997, de 25 de junio, de Caza de Galicia.
+Se modifica por la disposición final 2 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546#df-2
