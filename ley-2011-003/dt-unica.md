@@ -1,0 +1,2 @@
+Disposición transitoria única. Vigencia transitoria.
+En tanto no se desarrollen reglamentariamente la composición y funciones del Observatorio Gallego de la Familia y de la Infancia previsto en el artículo 4.1.b), se mantendrá el funcionamiento del Observatorio Gallego de la Familia regulado en los artículos 16 a 23 del Decreto 42/2000, de 7 de enero, por el que se refunde la normativa reguladora vigente en materia de familia, infancia y adolescencia, y del Observatorio Gallego de la Infancia, creado por Decreto 184/2008, de 4 de julio.
