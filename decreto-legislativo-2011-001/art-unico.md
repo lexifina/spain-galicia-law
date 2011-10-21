@@ -1,0 +1,2 @@
+Artículo único.
+Conforme a lo dispuesto en la disposición final tercera de la Ley 8/2010, de 29 de octubre, de medidas tributarias en el impuesto sobre transmisiones patrimoniales y actos jurídicos documentados para la reactivación del mercado de viviendas, su rehabilitación y financiación, y otras medidas tributarias, se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de tributos cedidos por el Estado.
