@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o resulten incompatibles con lo dispuesto en la presente ley, y, en especial, la Ley 3/1985, de 12 de abril, del patrimonio de la Comunidad Autónoma gallega.
+2. Mantiene su vigencia, en lo que no resultase incompatible con la presente ley, el Reglamento para la ejecución de la Ley 3/1985, de 12 de abril, del patrimonio de la Comunidad Autónoma gallega, aprobado por Decreto 50/1989, de 9 de marzo, en tanto no entren en vigor las disposiciones de desarrollo de la presente ley que lo sustituyan.
+3. Queda derogado el Decreto 179/1997, de 10 de julio, por el que se regula la coordinación en los edificios administrativos, en cuanto se oponga a lo dispuesto en la presente ley.
