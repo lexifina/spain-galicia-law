@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan total o parcialmente a lo establecido en la presente ley, y, en particular, la Ley 14/1989, de 11 de octubre, de bibliotecas. No obstante, mientras no se desarrolle reglamentariamente esta ley, permanecerán en vigor las disposiciones reglamentarias dictadas al amparo de la Ley 14/1989 en todo lo que no sea contrario a la presente ley.
