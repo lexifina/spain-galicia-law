@@ -1,0 +1,3 @@
+Disposición adicional decimosexta.
+Modificación del apartado 2 del artículo 197 de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y de protección del medio rural de Galicia, que tendrá la siguiente redacción:
+«2. Los municipios podrán conceder prórrogas de los referidos plazos de la licencia, previa solicitud expresa formulada antes de la conclusión de los plazos determinados y siempre que la licencia sea conforme con la ordenación urbanística vigente en el momento de la concesión de la prórroga. Cada prórroga que se solicite no podrá ser por un plazo superior al inicialmente acordado.»

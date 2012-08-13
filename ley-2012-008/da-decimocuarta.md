@@ -1,0 +1,7 @@
+Disposición adicional decimocuarta.
+Modificación del artículo 189 de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y de protección del medio rural de Galicia, que tendrá la siguiente redacción:
+«Artículo 189. Plazos para edificar o rehabilitar.
+1. Los plazos aplicables para el cumplimiento del deber de edificar o rehabilitar serán los fijados por el planeamiento general o de desarrollo en función de la clasificación y calificación del suelo y de las circunstancias específicas que concurran en determinadas áreas o solares, que serán apreciadas de forma motivada, y, en su defecto, el plazo será de dos años.
+2. La Administración podrá conceder prórrogas con una duración máxima conjunta de un año, a petición de las personas interesadas, por causas justificadas y de forma motivada.
+3. Las viviendas protegidas que no se ejecuten simultáneamente con las libres deberán, en todo caso, ser edificadas en los plazos establecidos en el planeamiento general o de desarrollo. Independientemente de lo dispuesto en los artículos siguientes de este capítulo, en caso de incumplimiento de dichos plazos de edificación, el Instituto Gallego de la Vivienda y Suelo o el ayuntamiento respectivo podrán expropiar los terrenos destinados por el plan general a la construcción de viviendas protegidas.
+4. Podrá ser beneficiaria de esta expropiación la persona física o jurídica que resulte adjudicataria mediante el oportuno procedimiento de selección, en el que se deberán garantizar los principios de publicidad, transparencia, objetividad y libre concurrencia.»

@@ -1,0 +1,5 @@
+Disposición adicional decimosegunda.
+Modificación del apartado 4 del artículo 93 de la Ley 9/2002, de 30 de diciembre, de ordenación urbanística y de protección del medio rural de Galicia, que tendrá la siguiente redacción:
+«4. La revisión del planeamiento y las modificaciones de cualquiera de los elementos de los planes, proyectos, normas y ordenanzas se sujetarán a las mismas disposiciones enunciadas para su tramitación y aprobación, sin perjuicio de lo dispuesto en el artículo 62 de la presente ley.
+Las modificaciones del planeamiento general que no impliquen ni la reclasificación del suelo ni el incremento de la intensidad de uso de una zona ni alteren los sistemas generales previstos en el planeamiento vigente no precisarán obtener el informe previo a la aprobación inicial a que hace referencia el apartado 1 del artículo 85 de la presente ley.
+Las modificaciones del planeamiento general tendentes a la delimitación de suelo de núcleo rural al amparo de lo establecido en el artículo 13 de la presente ley se tramitarán siguiendo el procedimiento establecido en la disposición adicional segunda de la misma ley.»
