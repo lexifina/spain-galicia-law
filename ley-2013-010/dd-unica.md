@@ -1,0 +1,2 @@
+Disposición derogatoria única. Expresa y genérica.
+Quedan derogadas cuantas disposiciones de igual o inferior rango contradigan lo dispuesto en la presente ley y, específicamente, la Ley 5/1989, de 24 de abril, de medidas para la erradicación del chabolismo en el ámbito de la Comunidad Autónoma de Galicia; la Ley 9/1991, de 2 de octubre, gallega de medidas básicas para la inserción social; la Ley 1/1999, de 5 de febrero, de modificación de la anterior; y la Ley 16/2004, de 29 de diciembre, de modificación de las dos leyes anteriores.
