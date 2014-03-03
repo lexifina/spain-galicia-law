@@ -1,0 +1,2 @@
+Disposición transitoria única. Vigencia de la normativa reglamentaria actual.
+En tanto no se elabore la normativa de desarrollo de la garantía de tiempo máximo de acceso y de la garantía del derecho a la segunda opinión médica, permanecerán en vigor el Decreto 104/2005, de 6 de mayo, de garantías de tiempos máximos de espera en la atención sanitaria, y el Decreto 205/2007, de 27 de septiembre, por el que se regula el derecho a la segunda opinión médica en el sistema sanitario público gallego.
