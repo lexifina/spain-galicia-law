@@ -1,0 +1,4 @@
+Disposición adicional sexta ter. Falta de resolución expresa en el procedimiento de declaración y calificación del grado de discapacidad en la Comunidad Autónoma de Galicia.
+1. En el procedimiento de reconocimiento, calificación y declaración del grado de discapacidad en la Comunidad Autónoma de Galicia, el vencimiento del plazo máximo sin que se haya notificado resolución expresa legitima al interesado que hubiera deducido la solicitud para desestimarla por silencio administrativo.
+2. En el procedimiento de revisión de la calificación del grado de discapacidad iniciado a instancia de parte en la Comunidad Autónoma de Galicia, el vencimiento del plazo máximo sin que se haya notificado resolución expresa legitima al interesado que hubiera deducido la solicitud para desestimarla por silencio administrativo.
+Se añade por el art. 85.3 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606.
