@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley y, en concreto, la Ley 8/1997, de 20 de agosto, de accesibilidad y supresión de barreras en la Comunidad Autónoma de Galicia, salvo lo establecido en el párrafo primero del apartado 1 del artículo 40 y en el apartado 1 del artículo 44 de dicha ley.
