@@ -1,0 +1,1 @@
+Norma derogada, excepto los arts. 40.1, párrafo primero y 44.1, con efectos desde el 17 de marzo de 2015, por la disposición derogatoria única de la Ley de 3 de diciembre de 2014. Ref. BOE-A-2015-2604#ddunica
