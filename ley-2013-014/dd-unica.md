@@ -1,7 +1,6 @@
 Disposición derogatoria única. Derogación normativa.
 1. Quedan derogadas, en el momento de la entrada en funcionamiento de las entidades públicas instrumentales previstas en el título III, las siguientes normas:
 – La Ley 8/1994, de 30 de diciembre, de creación del Instituto Gallego de Consumo.
-– La disposición adicional quinta de la Ley 2/1998, de 8 de abril, de medidas tributarias, de régimen presupuestario, función pública, patrimonio, organización y gestión.
 – La Ley 1/2011, de 28 de febrero, reguladora del Consejo Gallego de la Competencia.
 – El Decreto 329/1995, de 21 de diciembre, que desarrolla la Ley 8/1994, de 30 de diciembre, de creación del Instituto Gallego de Consumo.
 – El Decreto 60/2011, de 17 de marzo, por el que se desarrolla la estructura organizativa del Consejo Gallego de la Competencia.
@@ -11,3 +10,4 @@ Disposición derogatoria única. Derogación normativa.
 4. Queda derogado el artículo 51 de la Ley 14/2010, de 27 de diciembre, de presupuestos generales de la Comunidad Autónoma de Galicia para el año 2011.
 5. Queda derogado el artículo 35 de la Ley 15/2010, de 28 de diciembre, de medidas fiscales y administrativas.
 6. Quedan derogadas cuantas normas de igual o inferior rango contradigan o se opongan al contenido de la presente ley.
+Se modifica el apartado 1 por la disposición final 2.2 de la Ley 1/2015, de 1 de abril. Ref. BOE-A-2015-5676#dfsegunda.
