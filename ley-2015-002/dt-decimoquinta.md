@@ -1,0 +1,2 @@
+Disposición transitoria decimoquinta. Procesos selectivos y procedimientos de provisión de puestos de trabajo convocados con anterioridad a la entrada en vigor de la presente ley.
+Los procesos selectivos y los procedimientos de provisión de puestos de trabajo cuyas convocatorias se hayan publicado en el correspondiente diario oficial con anterioridad a la fecha de entrada en vigor de la presente ley se regirán por la normativa vigente en el momento de la publicación de la convocatoria.
