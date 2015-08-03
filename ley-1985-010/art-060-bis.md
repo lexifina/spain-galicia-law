@@ -1,9 +1,0 @@
-Artículo 60 bis.
-1. Las agrupaciones de propietarios de parcelas susceptibles de aprovechamiento forestal legalmente constituidas podrán promover la concentración parcelaria de carácter privado de los terrenos aportados a la agrupación si cumplen los siguientes requisitos:
-a) La superficie mínima que se concentrará será de 15 hectáreas, formada por un máximo de tres unidades de superficie en coto redondo, cada una de ellas con un 25% –como mínimo– de la superficie total.
-b) La superficie de las parcelas propiedad de terceros incluidas en cada unidad de superficie que se vaya a concentrar no será superior al 30% del total.
-c) Los propietarios de parcelas susceptibles de aprovechamiento forestal deberán estar constituidos en una agrupación con personalidad jurídica, que tenga como finalidad la gestión y el aprovechamiento en común de las parcelas mediante una gestión sostenible y viable de las mismas, concretada en los aprovechamientos forestales y en su comercialización.
-d) Los legítimos representantes de la agrupación solicitarán a la Consellería del Medio Rural la iniciación del expediente administrativo que conduzca a la reorganización de las propiedades en los perímetros afectados, e incluirán en la solicitud el compromiso expreso de todos los propietarios integrantes de la agrupación de la aceptación posterior de la reorganización de la propiedad que se lleve a efecto.
-e) La reorganización finalmente aprobada deberá incluir la nueva situación de todos los enclaves de terceros y lindar con el perímetro exterior de cada unidad de superficie en coto redondo concentrada.
-2. En los proyectos de obras y mejoras territoriales inherentes y complementarias a la concentración parcelaria, las obras correspondientes las realizarán las agrupaciones solicitantes, y podrán concederse ayudas de hasta el 70% de su importe.
-Se añade por el art. 15.2 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546.
