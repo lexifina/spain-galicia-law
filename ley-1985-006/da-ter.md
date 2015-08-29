@@ -1,0 +1,3 @@
+Disposición adicional ter. Autorizaciones de ampliaciones y transferencias de crédito de los presupuestos del Consejo de Cuentas.
+Con sujeción a las limitaciones y requisitos establecidos con carácter general, las autorizaciones de ampliaciones y transferencias de crédito que se atribuyen a la persona titular de la consejería competente en materia de hacienda por la legislación vigente se entenderán referidas al órgano competente del Consejo de Cuentas en relación al presupuesto del mismo. Las modificaciones autorizadas habrán de ser comunicadas para su instrumentación a la dirección general competente en materia de presupuestos.
+Se añade por el art. 1.29 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234

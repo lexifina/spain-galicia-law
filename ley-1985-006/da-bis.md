@@ -1,0 +1,3 @@
+Disposición adicional bis. Informe preceptivo.
+Se someterán a informe del Consejo de Cuentas las proposiciones de ley y los anteproyectos de ley que versen sobre su régimen jurídico o sobre el ejercicio de sus funciones. El Consejo de Cuentas emitirá su informe en el plazo de treinta días. Si en la orden de remisión se hiciese constar la urgencia del informe, el plazo será de quince días. Excepcionalmente, el órgano remitente podrá conceder una prórroga del plazo en atención a las circunstancias del caso. En el caso de los anteproyectos de ley, la Xunta remitirá dicho informe al Parlamento de Galicia.
+Se añade por el art. 1.28 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234

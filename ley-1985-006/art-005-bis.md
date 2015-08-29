@@ -1,0 +1,8 @@
+Art. 5 bis. Prevención de la corrupción.
+El Consejo de Cuentas desempeña las siguientes competencias en materia de prevención de la corrupción:
+a) Colaborar con las administraciones sujetas al ámbito de actuación del Consejo de Cuentas y hacerles propuestas en la elaboración de códigos de conducta y manuales internos de gestión de riesgos que permitan garantizar el comportamiento ético de los gestores públicos.
+b) Solicitar información a las administraciones relativas a sus sistemas de prevención de la corrupción, comprobando el adecuado diseño e implantación de las políticas de integridad y proponiendo mejoras que garanticen la transparencia y reduzcan las oportunidades de fraude.
+En este sentido, deberá evaluar de manera sistemática los planes de prevención de riesgo de la corrupción que realicen las instituciones y entes del sector público de la Comunidad Autónoma, en los cuales habrán de analizar las actividades en las que se constate una mayor incidencia de riesgo.
+c) Asesorar al Parlamento, la Administración autonómica y las administraciones sujetas al ámbito de actuación del Consejo de Cuentas sobre los instrumentos normativos o internos de prevención y represión de la corrupción.
+d) Fomentar la conciencia y participación ciudadana a favor de la transparencia y el comportamiento ético en el sector público e impulsar dentro del sector privado el establecimiento de mecanismos de autorregulación a fin de evitar prácticas irregulares, en particular en las empresas licitadoras y adjudicatarias de contratos, concesionarias de servicios públicos y beneficiarias de subvenciones y ayudas públicas.
+Se añade por el art. 1.6 de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234

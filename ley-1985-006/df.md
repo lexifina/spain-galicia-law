@@ -1,2 +1,3 @@
 Disposición final
-En el término de seis meses a partir de su constitución, el Consejo de Cuentas elaborará un proyecto de normas de régimen interior que presentará al Parlamento para su aprobación.
+(Derogada).
+Se deroga por la disposición derogatoria de la Ley 8/2015, de 7 de agosto. Ref. BOE-A-2015-10234
