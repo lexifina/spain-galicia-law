@@ -1,0 +1,2 @@
+Disposición transitoria única.
+La Xunta de Galicia tramitará, en el plazo de seis meses, las disposiciones para el desarrollo reglamentario del procedimiento de obtención de la autorización comercial autonómica previsto en el artículo 37 de la presente ley. En tanto dicho desarrollo no se produzca, continuará en vigor el Decreto 211/2012, de 25 de octubre, por el que se regula el procedimiento para la obtención de la autorización comercial autonómica en todo lo que no se oponga a la presente ley.
