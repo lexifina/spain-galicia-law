@@ -1,8 +1,0 @@
-Artículo 42 ter. Permiso por lactancia.
-1. La Administración pública gallega reconoce al personal a su servicio, por lactancia del hijo menor de doce meses, el derecho a ausentarse del puesto de trabajo durante una hora diaria, la cual puede dividirse en dos fracciones de media hora, o bien a una reducción de la jornada de trabajo diaria en una hora, que, a elección de la persona titular del derecho, puede aplicarse al inicio o final de la jornada de trabajo, o dividirse en dos fracciones de media hora y aplicarse al inicio y final de la jornada.
-El tiempo correspondiente a este permiso puede acumularse total o parcialmente en jornadas completas y hacerse uso del mismo en cualquier momento después del término del período de duración del permiso por parto, adopción o acogimiento.
-2. Cuando los dos progenitores trabajen, el derecho al permiso por lactancia puede ser ejercido indistintamente por cualquiera de ellos o prorratearse su duración.
-3. En los supuestos de adopción o acogimiento, el derecho al permiso por lactancia puede ejercerse durante el año siguiente a la efectividad de la resolución judicial o administrativa de adopción o acogimiento, siempre y cuando en el momento de esa efectividad el menor no tenga cumplidos los doce meses.
-4. En los supuestos de parto, adopción o acogimiento múltiple la duración del permiso por lactancia se incrementará en proporción al número de hijos.
-Se modifica por la disposición final 3.2 de la Ley 2/2015, de 29 de abril. Ref. BOE-A-2015-5677#dftercera.
-Se añade por la disposición adicional 1.2.6 de la Ley 2/2007, de 28 de marzo. Ref. BOE-A-2007-10021.
