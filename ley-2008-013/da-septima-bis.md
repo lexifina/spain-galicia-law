@@ -1,0 +1,4 @@
+Disposición adicional séptima bis. Referencias normativas a la autorización y al régimen de autorización.
+Las referencias a la autorización contenidas en la Ley de servicios sociales de Galicia en el artículo 2, apartados 3 y 4, el artículo 59, letra d), relativa a la competencia, y el artículo 69, relativo a la acreditación, se entenderán efectuadas a la autorización, declaración responsable o comunicación previa de conformidad con lo dispuesto en la presente ley y en la correspondiente normativa sectorial.
+A su vez, las referencias contenidas en la rúbrica del capítulo I del título VIII de la ley y en el artículo 70 al régimen de autorización administrativa se entenderán efectuadas al régimen de la autorización, declaración responsable o comunicación previa de conformidad con lo dispuesto en la presente ley y en la correspondiente normativa sectorial.
+Se añade por la disposición final 3.7 de la Ley 6/2016, de 4 de mayo. Ref. BOE-A-2016-5943.
