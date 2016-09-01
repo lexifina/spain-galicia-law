@@ -1,0 +1,4 @@
+Disposición adicional decimoprimera. Efectiva puesta en funcionamiento del Área Metropolitana de Vigo.
+1. La efectiva puesta en funcionamiento del Área Metropolitana de Vigo requerirá la previa integración efectiva del transporte urbano de Vigo en el Plan de transporte metropolitano de Galicia, tras la formalización del correspondiente convenio de adhesión entre la Xunta de Galicia y el municipio. Esta incorporación se realizará en las mismas condiciones que el resto de los municipios gallegos adheridos al plan, garantizando la igualdad de tratamiento de todas las personas usuarias.
+2. Dicha incorporación no supondrá incremento alguno en la aportación prevista en el Plan de transporte metropolitano de Galicia para la Xunta de Galicia o para los otros municipios, ni limitación alguna al número de personas usuarias.
+Se añade por el art. único.17 de la Ley 14/2016, de 27 de julio. Ref. BOE-A-2016-8274.
