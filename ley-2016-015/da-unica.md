@@ -1,0 +1,2 @@
+Disposición adicional única.
+El contenido y objetivos de este plan están conectados con el Plan estratégico de Galicia 2015-2020 y, dentro de este, se enmarcan en el eje instrumental «Administración moderna, eficiente y de calidad» (eje 5), en la prioridad de actuación «Administración transparente, eficiente y orientada a resultados», y en el objetivo de «Desarrollar el sistema de información estadística oficial como uno de los pilares en los que han de asentarse las políticas de transparencia».
