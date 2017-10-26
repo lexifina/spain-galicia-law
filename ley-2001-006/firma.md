@@ -78,7 +78,8 @@ Sentido del silencio: Negativo.
 Normativa reguladora: Ley 4/1988, de 26 de mayo, de la Función Pública de Galicia.
 Decreto 95/1991, de 20 de marzo, por el que se aprueba el Reglamento de selección de personal de la Administración de la Comunidad Autónoma de Galicia.
 Convenio Colectivo para el personal laboral de la Xunta de Galicia.
-Tipo de procedimiento: Procedimientos de concursos de traslados de personal funcionario o personal laboral. Sentido del silencio: Negativo.
+Tipo de procedimiento: Procedimientos de concursos de traslados de personal funcionario o personal laboral.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley 4/1988, de 26 de mayo, de la Función Pública de Galicia.
 Decreto 93/1991, de 20 de marzo, por el que se aprueba el Reglamento de Provisión de Puestos de Trabajo, Promoción Profesional y Promoción Interna.
 Convenio Colectivo para el personal laboral de la Xunta de Galicia.
@@ -151,7 +152,8 @@ Tipo de procedimiento: Calificaciones y declaraciones, provisionales y definitiv
 Sentido del silencio: Negativo.
 Normativa reguladora: Real Decreto 3148/1978, de 10 de noviembre, por el que se desarrolla el Real Decreto-ley 31/1978, de 31 de octubre, sobre Política de Vivienda.
 Real Decreto 1186/1998, de 12 de junio, sobre Medidas de Financiación de Actuaciones Protegidas en Materia de Vivienda y Suelo del Plan 1998-2001.
-Decreto 345/1998, de 20 de noviembre, por el que se establecen las Ayudas Públicas en materia de Vivienda a cargo de la Comunidad Autónoma de Galicia y se regula la gestión de las previstas en el Real Decreto 1186/1998, de 12 de junio, para el período 1998-2001. Tipo de procedimiento: Descalificación de viviendas sometidas a algún régimen de protección.
+Decreto 345/1998, de 20 de noviembre, por el que se establecen las Ayudas Públicas en materia de Vivienda a cargo de la Comunidad Autónoma de Galicia y se regula la gestión de las previstas en el Real Decreto 1186/1998, de 12 de junio, para el período 1998-2001.
+Tipo de procedimiento: Descalificación de viviendas sometidas a algún régimen de protección.
 Sentido del silencio: Negativo.
 Normativa reguladora: Real Decreto 3148/1978, de 10 de noviembre, por el que se desarrolla el Real Decreto-ley 31/1978, de 31 de octubre, sobre Política de Vivienda.
 Decreto 2114/1968, de 24 de julio, por el que se aprueba el Reglamento para la aplicación de la Ley sobre Viviendas de Protección Oficial, texto refundido aprobado por los Decretos 2131/1963, de 24 de julio, y 3964/1964, de 3 de diciembre.
@@ -171,7 +173,8 @@ Sentido del silencio: Negativo.
 Normativa reguladora: Real Decreto 557/1991, de 12 de abril, sobre Creación y reconocimiento de Universidades y centros universitarios («Boletín Oficial del Estado» del 20).
 Decreto 259/1994, de 29 de julio, por el que se establece el procedimiento para creación y reconocimiento de Universidades, centros universitarios y autorizaciones de estudios en la Comunidad Autónoma de Galicia.
 Consellería de Industria y Comercio
-Tipo de procedimiento: Autorización de explotación e investigación de hidrocarburos. Sentido del silencio: Negativo.
+Tipo de procedimiento: Autorización de explotación e investigación de hidrocarburos.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley estatal 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
 Real Decreto 2362/1976, de 30 de julio, Reglamento para la aplicación de la Ley sobre Investigación y Explotación de Hidrocarburos, de 27 de junio de 1974.
 Tipo de procedimiento: Autorización de aprovechamiento de recursos mineros de la sección A.
@@ -249,7 +252,8 @@ Sentido del silencio: Negativo.
 Normativa reguladora: Ley estatal 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
 Real Decreto 1905/1995, de 24 de noviembre, Reglamento para la Distribución al por menor de Carburantes y Combustibles Petrolíferos en Instalaciones de Venta al Público.
 Real Decreto 1085/1992, de 11 de septiembre, Reglamento de la Actividad de Distribución de Gases Licuados del Petróleo.
-Tipo de procedimiento: Autorización de instalaciones de almacenamiento, transporte y distribución de gas natural y de almacenamiento y distribución de GLP, combustibles gaseosos manufacturados y sintéticos y de mezcla de gases y aire para suministro por canalización. Sentido del silencio: Negativo.
+Tipo de procedimiento: Autorización de instalaciones de almacenamiento, transporte y distribución de gas natural y de almacenamiento y distribución de GLP, combustibles gaseosos manufacturados y sintéticos y de mezcla de gases y aire para suministro por canalización.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley estatal 34/1998, de 7 de octubre, del Sector de Hidrocarburos. Decreto 2913/1973, de 26 de octubre, Reglamento General del Servicio Público de Gases Combustibles.
 Tipo de procedimiento: Autorización de la actividad de transporte, distribución y comercialización de gas natural y combustibles gaseosos por canalización.
 Sentido del silencio: Negativo.
@@ -347,6 +351,7 @@ Tipo de procedimiento: Traslado de oficinas de farmacia (a instancia de parte).
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 5/1999, de 21 de mayo, de Ordenación Farmacéutica.
 Tipo de procedimiento: Transmisiones de oficinas de farmacia.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley 5/1999, de 21 de mayo, de Ordenación Farmacéutica.
 Tipo de procedimiento: Reconocimiento de gastos o indemnizaciones por asistencia médica, asistencia farmacéutica o donación de órganos.
 Sentido del silencio: Negativo.
@@ -389,7 +394,8 @@ Resolución de 25 de octubre de 2007 por la que se ordena la publicación del Ac
 Orden de 24 de mayo de 2006 por la que se desarrolla el procedimiento para el reconocimiento de la consolidación de grado personal para determinadas categorías de personal estatutario fijo.
 Orden de 16 de abril de 2008 por la que se regula el procedimiento de reconocimiento de trienios al personal estatutario temporal del Servicio Gallego de Salud.
 Consellería de Pesca, Marisqueo y Acuicultura
-Tipo de procedimiento: Autorización para nuevas construcciones y modernización de barcos pesqueros. Sentido del silencio: Negativo.
+Tipo de procedimiento: Autorización para nuevas construcciones y modernización de barcos pesqueros.
+Sentido del silencio: Negativo.
 Normativa reguladora: Real Decreto 1027/1989, de 28 de julio, sobre Abanderamiento, Matriculación de Buques y Registro Marítimo.
 Real Decreto 789/1995, de 19 de mayo, por el que se definen los criterios y condiciones de las intervenciones con finalidad estructural en el sector de la pesca, la acuicultura y la comercialización, la transformación y la promoción de sus productos.
 Tipo de procedimiento: Permiso de explotación para embarcaciones.
@@ -426,6 +432,7 @@ Tipo de procedimiento: Concesiones-autorizaciones para instalar establecimientos
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 6/1993, de 11 de mayo, de Pesca de Galicia.
 Tipo de procedimiento: Concesiones-autorizaciones para remodelar o ampliar establecimientos de acuicultura que supongan modificación de ocupación de dominio público.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley 6/1993, de 11 de mayo, de Pesca de Galicia.
 Tipo de procedimiento: Autorización temporal para viveros experimentales.
 Sentido del silencio: Negativo.
@@ -433,7 +440,8 @@ Normativa reguladora: Orden de 17 de septiembre de 1998 por la que se regula el 
 Tipo de procedimiento: Instalación de centros reguladores de crustáceos en el dominio público.
 Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 16 de octubre de 1996 sobre centros reguladores de crustáceos.
-Tipo de procedimiento: Permiso de actividad para establecimientos de acuicultura y auxiliares en la zona terrestre que precisen ocupación de dominio público. Sentido del silencio: Negativo.
+Tipo de procedimiento: Permiso de actividad para establecimientos de acuicultura y auxiliares en la zona terrestre que precisen ocupación de dominio público.
+Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 27 de marzo de 2000 por la que se regula el procedimiento para el otorgamiento del permiso de actividad a establecimientos de cultivos marinos y auxiliares en la zona terrestre.
 Tipo de procedimiento: Autorizaciones para cambios de sistemas de instalaciones (viveros flotantes).
 Sentido del silencio: Negativo.
@@ -447,10 +455,10 @@ Tipo de procedimiento: Autorizaciones para cambios de dominio de establecimiento
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 6/1996, de 11 de mayo, de Pesca de Galicia.
 Orden de 21 de julio de 2000 por la que se regula el procedimiento para la transmisión de titularidad del permiso de actividad en establecimientos de cultivos marinos y auxiliares en la zona terrestre.
-Tipo de procedimiento: Transmisión de la titularidad de las concesiones de las bateas de cultivos marinos. Sentido del silencio: Negativo.
+Tipo de procedimiento: Transmisión de la titularidad de las concesiones de las bateas de cultivos marinos.
+Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 15 de junio de 1999 por la que se regula el procedimiento para la transmisión de titularidad de las concesiones de las bateas de cultivos marinos en las aguas de Galicia.
-Tipo de procedimiento: Transmisión mortis causa.
-Autorización temporal de viveros experimentales.
+Tipo de procedimiento: Transmisión mortis causa. Autorización temporal de viveros experimentales.
 Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 7 de octubre de 1999 por la que se regula el procedimiento para la transmisión mortis causa de la titularidad de las autorizaciones temporales de carácter experimental de los polígonos de viveros.
 Tipo de procedimiento: Autorizaciones para cambios de cultivo.
@@ -467,7 +475,8 @@ Normativa reguladora: Orden de 26 de octubre de 2000 por la que se regula la ext
 Tipo de procedimiento: Solicitud de título para el gobierno de embarcación de recreo o tarjeta de identidad marina.
 Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 22 de abril de 1998 por la que se establecen los modelos de las tarjetas acreditativas de las titulaciones para el gobierno de embarcaciones de recreo y el procedimiento para su obtención.
-Tipo de procedimiento: Obtención de las tarjetas de identidad profesional náutico-pesquera y sus modelos. Sentido del silencio: Negativo.
+Tipo de procedimiento: Obtención de las tarjetas de identidad profesional náutico-pesquera y sus modelos.
+Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 8 de junio de 1998 por la que se establece el procedimiento para la obtención de las tarjetas de identidad profesional náutico-pesquera y sus modelos.
 Tipo de procedimiento: Obtención o renovación de tarjetas de buceo profesional.
 Sentido del silencio: Negativo.
@@ -476,7 +485,8 @@ Tipo de procedimiento: Expedición del certificado de especialidad de buceo prof
 Sentido del silencio: Negativo.
 Normativa reguladora: Orden de 23 de abril de 1999 por la que se regula el ejercicio del buceo profesional en la Comunidad Autónoma de Galicia.
 Consellería de Justicia, Interior y Relaciones Laborales
-Tipo de procedimiento: Declaración de urgente ocupación en expropiaciones forzosas de entidades locales. Sentido del silencio: Negativo.
+Tipo de procedimiento: Declaración de urgente ocupación en expropiaciones forzosas de entidades locales.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley de 16 de diciembre de 1954, de Expropiación Forzosa.
 Tipo de procedimiento: Autorización de desafectación y enajenación de bienes.
 Sentido del silencio: Negativo.
@@ -491,6 +501,7 @@ Tipo de procedimiento: Dispensa a los municipios de la obligación de prestar lo
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 5/1997, de 22 de julio, de Administración Local de Galicia.
 Tipo de procedimiento: Constitución y disolución de las entidades locales menores.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley 5/1997, de 22 de julio, de Administración Local de Galicia.
 Tipo de procedimiento: Autorización de instalación o apertura de casinos de juego.
 Sentido del silencio: Negativo.
@@ -514,7 +525,8 @@ Tipo de procedimiento: Autorización de rifas, tómbolas y combinaciones aleator
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 14/1985, de 23 de octubre, reguladora de los Juegos y Apuestas de Galicia.
 Decreto 116/1986, de 4 de junio, por el que se aprueba el Catálogo de Juegos de la Comunidad Autónoma de Galicia.
-Tipo de procedimiento: Procedimientos relacionados con la inscripción de actos en el registro de cooperativas. Sentido del silencio: Negativo.
+Tipo de procedimiento: Procedimientos relacionados con la inscripción de actos en el registro de cooperativas.
+Sentido del silencio: Negativo.
 Normativa reguladora: Ley 5/1998, de 18 de diciembre, de Cooperativas de Galicia.
 Consellería de Familia y Promoción del Empleo, Mujer y Juventud
 Tipo de procedimiento: Solicitud de adopción. Procedimiento de valoración de la idoneidad.
@@ -532,9 +544,9 @@ Ley 13/1989, de 10 de octubre, de Montes Vecinales en Mancomún.
 Tipo de procedimiento: Inclusión en el registro de espacios naturales de Galicia.
 Sentido del silencio: Negativo.
 Normativa reguladora: Decreto 82/1989, de 11 de mayo, por el que se regula la figura de espacio natural en régimen de protección general.
-Tipo de procedimiento: Autorización de actividades, obras, instalaciones y usos permitidos en la zona de servidumbre de protección del dominio marítimo-terrestre. Sentido del silencio: Negativo.
-Normativa reguladora: Ley 22/1988, de 28 de julio, de Costas.
-Real Decreto 1471/1989, de 1 de diciembre, por el que se aprueba el Reglamento General para el Desarrollo y Ejecución de la Ley 22/1988, de 28 de julio, de Costas.
+Tipo de procedimiento: Autorización de actividades, obras, instalaciones y usos permitidos en la zona de servidumbre de protección del dominio marítimo-terrestre.
+Sentido del silencio: Negativo, por razones de protección del medio ambiente, con arreglo a lo establecido en el artículo 24 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, salvo en los casos de solicitud de autorización de aprovechamientos de masas forestales pobladas de las especies que no estén incluidas en el anexo I de la Ley 7/2012, de 28 de junio, de montes de Galicia, en cuyo caso el sentido del silencio será positivo, siempre que no constasen en el procedimiento informes emitidos por los órganos competentes en materia de protección del litoral que sean contrarios al aprovechamiento forestal pretendido, y sin perjuicio de la obligación de reforestación eficaz de acuerdo con lo establecido en la normativa básica estatal en materia de costas.
+Normativa reguladora: Ley 22/1988, de 28 de julio, de costas, y Ley 7/2012, de 28 de junio, de montes de Galicia.
 Tipo de procedimiento: Permisos para la realización de quemas.
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 81/1968, de 5 de diciembre, de Incendios Forestales.
@@ -599,9 +611,11 @@ Tipo de procedimiento: Autorización para la posesión, exhibición, compraventa
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y fauna silvestres.
 Decreto 153/1998, de 2 de abril, por el que se aprueba el Reglamento que desarrolla la Ley 1/1993, de 13 de abril, de Protección de Animales Domésticos y Salvajes en Cautividad.
-Real Decreto 439/1990, de 30 de marzo, por el que se regula el Catálogo Nacional de Especies Amenazadas. Tipo de procedimiento: Excepciones a las prohibiciones genéricas en materia de caza.
+Real Decreto 439/1990, de 30 de marzo, por el que se regula el Catálogo Nacional de Especies Amenazadas.
+Tipo de procedimiento: Excepciones a las prohibiciones genéricas en materia de caza.
 Sentido del silencio: Negativo.
 Normativa reguladora: Ley 4/1997, de 25 de junio, de Caza de Galicia.
+Se modifica por la disposición final 2 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949#df-2
 Se modifica por la disposición final 1 de la Ley 13/2015, de 24 de diciembre. Ref. BOE-A-2016-2017#df
 Se modifica por la disposición final 1 de la Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606#df
 Se modifica por la disposición final 2 de la Ley 15/2010, de 28 de diciembre. Ref. BOE-A-2011-2546#df-2

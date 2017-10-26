@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Información geolocalizada de los yacimientos arqueológicos.
+Los distintos departamentos de la Administración general de la Comunidad Autónoma de Galicia colaborarán con la dirección general competente en materia de protección del patrimonio cultural para que, en el plazo de un año, se publique en la herramienta geográfica corporativa una información geolocalizada de los yacimientos arqueológicos identificados hasta el momento, que permita a las administraciones públicas y a los operadores económicos una planificación respetuosa con el patrimonio cultural de Galicia.
+Se añade por la disposición final 12.3 de la Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
