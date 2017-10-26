@@ -1,0 +1,3 @@
+Disposición final decimoquinta. Autorización para refundir textos.
+1. En el plazo de un año desde la entrada en vigor de la presente ley, el Consello de la Xunta de Galicia, a propuesta de la persona titular de la consejería competente en materia de empleo, aprobará el correspondiente decreto legislativo que refunda la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, y sus modificaciones, incluyendo los preceptos contenidos en la presente ley.
+2. La autorización a que se refiere esta disposición incluye la facultad de regularizar, aclarar y armonizar los textos legales que tengan que refundirse.
