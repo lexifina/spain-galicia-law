@@ -1,0 +1,3 @@
+Artículo 53 bis. Comparecencia de los titulares de la presidencia de las diputaciones provinciales ante la comisión parlamentaria.
+Sin perjuicio de la competencia de los plenos de las diputaciones provinciales para la aprobación de sus presupuestos en uso de su autonomía constitucional y estatutariamente garantizada, el Parlamento de Galicia tomará conocimiento de ellos desde la perspectiva de los intereses generales comunitarios directamente afectados. A estos efectos, deberán comparecer ante la comisión parlamentaria competente, de acuerdo con el Reglamento del Parlamento de Galicia, las personas titulares de la presidencia de las diputaciones.
+Se añade por la disposición final 1 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753

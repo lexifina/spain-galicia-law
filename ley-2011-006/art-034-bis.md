@@ -1,5 +1,6 @@
 CAPÍTULO III
-De las fincas abandonadas
+De los perímetros abandonados
+Se modifica el título por el art. 18.2 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
 Artículo 34 bis. Declaración.
 El órgano superior competente en materia de agricultura podrá declarar como perímetros abandonados un conjunto de fincas con vocación agraria, contiguas o no, o que constituyan o no coto redondo, situadas en suelo rústico, cuando se dé alguna de las siguientes causas:
 a) Que puedan suponer riesgo de incendios forestales, bien por la inaplicación o ineficacia de las medidas contenidas en los correspondientes planes de gestión o de ordenación forestal, bien por la inexistente gestión de la biomasa o bien por las reiteradas negligencias en el uso del fuego en prácticas de gestión agroforestal o de otros conflictos que devinieron en la reiteración de incendios en esas zonas, con el consiguiente peligro para las áreas habitadas cercanas a esas zonas.

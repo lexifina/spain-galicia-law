@@ -1,0 +1,3 @@
+Disposición transitoria decimosegunda. Exigencia de la disponibilidad de un distintivo de la actividad de arrendamiento de vehículos con conductor.
+La exigencia de la disposición de un distintivo identificativo de la actividad de arrendamiento de vehículos con conductor establecida en el número 2 del artículo 53 será exigible para el conjunto de titulares de títulos habilitantes domiciliados en Galicia al mes de la publicación de la orden de la consejería competente en materia de transportes por la que se establezcan sus condiciones de diseño, emisión y uso, salvo que en dicha orden se fije motivadamente un plazo superior, que en ningún caso podrá ser superior al de seis meses.
+Se añade por el art. 30.3 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
