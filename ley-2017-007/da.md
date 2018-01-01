@@ -1,0 +1,2 @@
+Disposición adicional. Medidas con las compañías y para la contratación de suministros.
+La Xunta de Galicia llevará a cabo negociaciones con las compañías de suministro energético a fin de celebrar convenios sobre materias como la mejora en los hábitos de consumo, la eliminación de cortes de suministro o la contribución al ahorro energético y a la implantación y desarrollo de las medidas de eficiencia.
