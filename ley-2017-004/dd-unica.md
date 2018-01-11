@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+1. Queda derogada la Ley 1/1993, de 13 de abril, de protección de los animales domésticos y salvajes en cautividad, y cuantas disposiciones de igual o inferior rango se opongan o contradigan lo dispuesto en la presente ley.
+2. El Decreto 153/1998, de 2 de abril, por el que se aprueba el reglamento que desarrolla la Ley 1/1993, de 13 de abril, de protección de los animales domésticos y salvajes en cautividad, permanecerá vigente en lo que no se oponga a la presente ley, en tanto en cuanto no se apruebe su normativa de desarrollo.
+3. El Decreto 90/2002, de 28 de febrero, por el que se regula la tenencia de animales potencialmente peligrosos en la Comunidad Autónoma de Galicia y se crean los registros gallegos de Identificación de Animales de Compañía y Potencialmente Peligrosos y de Adiestradores Caninos, permanecerá vigente en lo que no se oponga a la presente ley.
