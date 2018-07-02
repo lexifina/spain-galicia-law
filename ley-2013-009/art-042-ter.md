@@ -1,0 +1,11 @@
+Artículo 42 ter. Tramitación de la licencia municipal del artículo 41.1.b).
+1. Con anterioridad a la instalación de terrazas al aire libre o en la vía pública anexas a establecimientos abiertos al público, el/la titular del establecimiento deberá presentar una solicitud de licencia dirigida al ayuntamiento. En caso de que la terraza se ubique en dominio público municipal, la licencia se solicitará conjuntamente con la autorización para la ocupación del dominio público.
+La solicitud de licencia tendrá el siguiente contenido:
+a) Los datos identificativos del/de la titular y, en su caso, de la persona que actúe en su representación, con indicación de su nombre y dirección.
+b) La ubicación del establecimiento abierto al público en que va a instalarse la terraza y la descripción de las características de la misma.
+c) La declaración de la persona titular donde se haga constar el compromiso de contratación del seguro previsto en la normativa en materia de espectáculos públicos y actividades recreativas de Galicia para el establecimiento en que esté incluida la terraza, o la documentación acreditativa de la disponibilidad del mismo.
+2. Recibida la solicitud de licencia y la documentación anexa, el ayuntamiento emitirá los informes necesarios que determinen el cumplimiento de la normativa de aplicación.
+3. La tramitación de la solicitud de licencia no podrá exceder del plazo de un mes, a contar desde la presentación de la solicitud y de la documentación anexa en el ayuntamiento, salvo en el supuesto de que suponga también la ocupación del dominio público, en el cual será de aplicación la normativa específica que establezca otro plazo mayor. Transcurrido dicho plazo sin que el ayuntamiento notificase la resolución a la persona interesada, esta podrá entender estimada por silencio administrativo su solicitud en relación con la licencia de actividad.
+4. La instalación quedará sujeta a las potestades municipales de comprobación, control y sanción previstas en el artículo 28.
+Se añade por la disposición final 1.7 de la Ley 10/2017, de 27 de diciembre. Ref. BOE-A-2023-6377#df
+Esta modificación entra en vigor el 2 de julio de 2018, según determina la disposición final 6 de la citada ley.
