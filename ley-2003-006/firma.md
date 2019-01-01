@@ -2,8 +2,29 @@ Santiago de Compostela, 9 de diciembre de 2003.
 MANUEL FRAGA IRIBARNE,
 Presidente
 ANEXOS
-[Anexos 1 a 5 omitidos. Consulte el PDF original] y sus modificaciones:
-Anexos 3 por Ley 7/2009, de 22 de diciembre. Ref. BOE-A-2010-1707
+[Anexos omitidos. Consulte el PDF original] y sus modificaciones:
+- Anexos 1 a 3 por Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997
+- Anexos 1 a 3, por Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
+- Anexo 3.37, por Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
+- Anexos 1, 2, 3 y 5, por Ley 2/2017, de 8 de febrero. Ref. BOE-A-2017-3823
+- Anexos 1, 2 y 3, por Ley 13/2015, de 24 de diciembre. Ref. BOE-A-2016-2017
+- Anexos 1 a 5, por Ley 12/2014, de 22 de diciembre. Ref. BOE-A-2015-2606
+- Anexos 1 a 3 y 5, por Ley 11/2013, de 26 de diciembre. Ref. BOE-A-2014-885
+- Anexos 1 a 6 , por Ley 2/2013, de 27 de febrero. Ref. BOE-A-2013-4088
+Redactado conforme a la corrección de errores publicada en DOG núm. 59, de 25 de marzo de 2013. Ref. DOG-g-2013-90292
+- Anexos, por Ley 12/2011, de 26 de diciembre. Ref. BOE-A-2012-1252
+- Anexos 1 a 3 y 5, por Ley 14/2010, de 27 de diciembre. Ref. BOE-A-2011-2545
+- Anexo 2.19 y 22 por Ley 1/2010, de 11 de febrero. Ref. BOE-A-2010-5665
+- Anexos 1 a 3 y 5, por Ley 9/2009, de 23 de diciembre. Ref. BOE-A-2010-2888
+- Anexo 3, por Ley 8/2009, de 22 de diciembre. Ref. BOE-A-2010-1708
+- Anexo 3 por Ley 7/2009, de 22 de diciembre. Ref. BOE-A-2010-1707
+- Anexos, por Ley 16/2008, de 23 de diciembre. Ref. BOE-A-2009-4369
+- Anexos 1 y 3, por Ley 11/2008, de 3 de diciembre. Ref. BOE-A-2009-805
+- Anexos 1, 2 y 3, por Ley 16/2007, de 26 de diciembre. Ref. BOE-A-2008-2988
+- Anexos 1 y 2, por Ley 5/2007, de 7 de mayo. Ref. BOE-A-2007-11324
+- Anexos, por Ley 14/2006, de 28 de diciembre. Ref. BOE-A-2007-2483
+- Anexos 1, 2 y 3, por Ley 7/2005, de 29 de diciembre. Ref. BOE-A-2006-1850
+- Anexos 1, 2, 3 y 4, por Ley 13/2004, de 29 de diciembre. Ref. BOE-A-2005-1721
 ANEXO 1
 Tasa por servicios administrativos
  | Euros

@@ -1,0 +1,3 @@
+Artículo 162 bis. Reposición de la situación alterada a su estado originario en determinados casos.
+Las responsabilidades administrativas que se deriven de la comisión de las infracciones previstas en el apartado d) del número 4 del artículo 158 y en el apartado f) del número 3 del artículo 158 se entenderán sin perjuicio y serán compatibles con la exigencia, por el órgano competente para la imposición de la sanción, al infractor o a las personas previstas en el artículo 160.5 de la presente ley de la obligación de reposición de la situación alterada a su estado originario, incluyendo la limpieza de las pintadas y grafitis.
+Se añade por el art. 13.7 de la Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997#ar-13
