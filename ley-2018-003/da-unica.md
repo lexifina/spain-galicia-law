@@ -1,0 +1,2 @@
+Disposición adicional única. Sistema de carrera profesional para los funcionarios de Justicia .
+La Xunta de Galicia estudiará la implantación de un sistema de carrera profesional para los funcionarios de Justicia, dentro del respeto a la normativa aplicable del Estado y a través de la mesa sectorial de negociación específica. Dicho sistema podrá tener en cuenta la implantación de la nueva oficina judicial de Galicia en el marco de la modernización de la Administración de justicia en nuestra Comunidad Autónoma.
