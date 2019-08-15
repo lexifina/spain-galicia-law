@@ -3,6 +3,7 @@ MANUEL FRAGA IRIBARNE,
 Presidente
 ANEXOS
 [Anexos omitidos. Consulte el PDF original] y sus modificaciones:
+- Anexo 1.27, por Ley 4/2019, de 17 de julio. Ref. BOE-A-2019-13518
 - Anexos 1 a 3 por Ley 3/2018, de 26 de diciembre. Ref. BOE-A-2019-3997
 - Anexos 1 a 3, por Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
 - Anexo 3.37, por Ley 5/2017, de 19 de octubre. Ref. BOE-A-2017-12949
