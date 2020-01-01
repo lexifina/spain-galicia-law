@@ -1,3 +1,4 @@
 Artículo 22 bis. Fondo de gestión de la biomasa y retirada de especies.
-Se crea en la consejería competente en materia de montes un fondo constituido con los importes procedentes de la venta de las especies arbóreas prohibidas o ilegales derivadas de las ejecuciones subsidiarias realizadas, ante el incumplimiento de las obligaciones de las personas responsables, por la Administración forestal y decomisadas por esta. El destino de este fondo será el de sufragar los costes de las ejecuciones subsidiarias que tenga que realizar la Administración forestal.
+(Suprimido).
+Se suprime por el art. 17.3 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
 Se añade por el art. 17.10 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753

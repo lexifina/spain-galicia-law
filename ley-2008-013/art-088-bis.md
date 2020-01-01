@@ -1,0 +1,6 @@
+Artículo 88 bis.
+1. En los casos en que la infracción consista en la omisión de alguna conducta o actuación exigible legalmente, la sanción irá acompañada de un requerimiento en el que se detallen tanto las actuaciones concretas que debe realizar la persona infractora para la restitución de la situación a las condiciones legalmente exigibles, como el plazo de que dispone para ello.
+Para el caso de que la persona infractora no cumpla con el requerimiento dentro de plazo y en la forma procedente, el órgano competente para sancionar podrá acordar la imposición de multas coercitivas según lo dispuesto en el artículo 103 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+2. La imposición de las multas coercitivas se hará por lapsos de tiempo no inferiores a un mes. La cuantía de cada multa será la resultante de multiplicar el 1 % del importe de la sanción de multa impuesta por los días transcurridos desde la finalización del plazo fijado para cumplir el requerimiento sin que este se haya cumplido.
+3. Las multas coercitivas son independientes de las sanciones que corresponda imponer y compatibles con ellas.
+Se añade por el art. 23.4 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849.

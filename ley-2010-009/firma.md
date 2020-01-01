@@ -60,11 +60,10 @@ Punta de A Meda-punta de O Castelo de Monte Rei:
 (512650, 4666600)-(512350, 4664200).
 ANEXO II
 Objetivos de calidad de las aguas de las rías de Galicia
-(i) Bacteriológicos
+(i) Bacteriológicos.
 Parámetros | Unidad | Valor | Observaciones
-Coliformes fecales | ufc/100 ml | 100 | 90% muestras
-Estreptococos fecales | ufc/100 ml | 100 | 90% muestras
-Coliformes totales | ufc/100 ml | 500 | 90% muestras
+Escherichia coli. | ufc/100 ml | 100 | 90 % muestras
+Enterococos intestinales. | ufc/100 ml | 100 | 90 % muestras
 (ii) Físicos
 Parámetros | Unidad | Valor
 Temperatura | ºC | MN + 1
@@ -149,6 +148,7 @@ Indeno(1,2,3-ed)pireno |  |  | NAT
 Trifluoralina | 0,03 μg/l | No aplicable | NAT
 NAT: no deberá aumentar a lo largo del tiempo.
 «No aplicable»: cuando se indica no aplicable como concentración máxima admisible, se considera que los valores del valor medio anual protegen contra los picos de contaminación a corto plazo en caso de los vertidos continuos, ya que son significativamente inferiores a los valores calculados sobre la base de toxicidad aguda.
+Se modifica la tabla (i) por el art. 38 de la Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
 ANEXO III
 Límites de emisión de vertidos de aguas residuales a las rías de Galicia
 Parámetro | Promedio mensual | Promedio diario | Valor puntual
