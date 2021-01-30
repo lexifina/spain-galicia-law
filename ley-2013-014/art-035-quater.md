@@ -1,5 +1,5 @@
 Artículo 35 quater. Duración del mandato, garantías e incompatibilidades de los miembros del Tribunal Administrativo de Contratación Pública de la Comunidad Autónoma de Galicia.
-1. La duración del mandato de los miembros del Tribunal será de seis años. No obstante lo anterior, la primera renovación del Tribunal se realizará de forma parcial a los tres años del nombramiento. Con respecto a esto, antes de cumplirse el plazo indicado se determinará, mediante sorteo, el vocal que deba cesar.
+1. La duración del mandato de los miembros del Tribunal será de seis años. A pesar de lo anterior, la primera renovación del Tribunal se realizará de forma parcial a los tres años del nombramiento. Respecto de ello, se determinará, mediante sorteo, el miembro que deba cesar, salvo que alguno voluntariamente se quiera acoger a esta expiración de su mandato.
 2. Los miembros del Tribunal tienen carácter independiente, son inamovibles y non podrán ser removidos de sus puestos salvo por las siguientes causas:
 a) Por expiración de su mandato.
 b) Por renuncia aceptada por el Consejo de la Xunta de Galicia.
@@ -9,7 +9,8 @@ e) Por condena a pena privativa de libertad o de inhabilitación absoluta o espe
 f) Por perdida de la nacionalidad española.
 Salvo en los casos a) y b), en el resto de supuestos el cese será acordado por el Consejo de la Xunta de Galicia previa tramitación del procedimiento administrativo en el que se acredite la causa.
 Removido un miembro del Tribunal por expiración de su mandato o renuncia, deberá continuar en el ejercicio de sus funciones hasta que tome posesión de su cargo la persona que lo sustituya.
-3. En caso de vacante, ausencia, enfermedad u otra causa legal de alguno de los miembros del Tribunal, el órgano colegiado podrá constituirse con la asistencia de los restantes.
-A estos efectos, el presidente será sustituido conforme a lo establecido en el artículo 16.3 de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
-4. Los miembros del Tribunal estarán sometidos al mismo régimen de incompatibilidades de los empleados públicos.
+3. En caso de vacante, ausencia, enfermedad u otra causa legal de alguno de los miembros del Tribunal, el órgano colegiado podrá constituirse con la asistencia de los restantes. A estos efectos, el presidente será sustituido de acuerdo con lo establecido en el artículo 16.3 de la Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia.
+No obstante, en el caso de que la ausencia pueda preverse de larga duración, el Consejo de la Xunta de Galicia podrá nombrar un sustituto de forma temporal que reúna los mismos requisitos requeridos para la persona titular.
+4. Los miembros del Tribunal desarrollarán su función en régimen de dedicación exclusiva, y estarán sometidos al régimen de incompatibilidades que corresponde a los altos cargos de la Xunta de Galicia.
+Se modifican los apartados 1, 3 y 4 por el art. 35.4 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
 Se añade por la disposición final 2.1 de la Ley 1/2015, de 1 de abril. Ref. BOE-A-2015-5676#dfsegunda.

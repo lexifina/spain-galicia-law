@@ -1,0 +1,5 @@
+Disposición adicional decimoprimera. Plazo para la realización de asambleas generales y prórroga de los nombramientos.
+1. Las asambleas generales de las cooperativas a las que sea de aplicación la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, que debieran tener lugar en una fecha posterior al 14 de marzo de 2020 y que no se pudieron realizar en cumplimiento de las medidas dictadas para hacer frente a la pandemia de la COVID-19, podrán celebrarse con fecha límite del 31 de diciembre de 2021.
+2. Aquellos nombramientos para cargos de los órganos sociales de las cooperativas a las que sea de aplicación la Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia, cuya vigencia haya finalizado después del 14 de marzo de 2020 se entenderán prorrogados hasta el 31 de diciembre de 2021, sin perjuicio de que puedan ser renovados o separados en cualquier momento anterior por el órgano competente.
+Se añade por el art. 26.1.5 de la Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
+Redactado conforme a la corrección de errores publicada en el DOG núm. 40, de 1 de marzo de 2021. Ref. BOE-A-2021-5139

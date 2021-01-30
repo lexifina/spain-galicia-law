@@ -3,6 +3,7 @@ MANUEL FRAGA IRIBARNE,
 Presidente
 ANEXOS
 [Anexos omitidos. Consulte el PDF original] y sus modificaciones:
+- Anexos 1, 2, 3 y 5, por Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
 - Anexo 2, por Ley 9/2019, de 11 de diciembre. Ref. BOE-A-2020-90002
 - Anexos 1 a 5, por Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849
 - Anexo 1.27, por Ley 4/2019, de 17 de julio. Ref. BOE-A-2019-13518
