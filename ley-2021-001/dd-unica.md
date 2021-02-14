@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogados la Ley 10/1995, de 23 de noviembre, de ordenación del territorio de Galicia; la Ley 6/2007, de 11 de mayo, de medidas urgentes en materia de ordenación del territorio y del litoral de Galicia; el Decreto 80/2000, de 23 de marzo, por el que se regulan los planes y proyectos sectoriales de incidencia supramunicipal; y cuantos preceptos de igual o inferior rango se opongan a lo dispuesto en la presente ley.
