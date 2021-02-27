@@ -1,0 +1,11 @@
+Artículo 38 quater. Protección de la salud pública a través de las nuevas tecnologías.
+1. Las autoridades sanitarias habrán de potenciar el papel de las nuevas tecnologías en la gestión y el control de los riesgos para la salud pública.
+2. A los efectos previstos en el apartado anterior, entre otras iniciativas podrán desarrollarse sistemas de información y aplicaciones para dispositivos móviles que operen como medidas complementarias para la gestión de crisis sanitarias derivadas de enfermedades de carácter transmisible. Dichos sistemas de información y aplicaciones podrán tener, entre otras, las siguientes funcionalidades:
+a) Recepción, por parte de la persona usuaria, de información o alertas relativas a consejos prácticos y orientaciones de carácter general frente a la enfermedad de que se trate, así como recomendaciones respecto a acciones y medidas adecuadas que es preciso seguir.
+b) Geolocalización de recursos de interés que puedan servir de apoyo a la ciudadanía para el seguimiento de las pautas de salud o movilidad u otras.
+c) Determinación del nivel de riesgo transmisor de la persona usuaria, sobre la base de los datos que de la persona usuaria tenga el Sistema público de salud de Galicia.
+d) Identificación de contactos de la persona usuaria que sean epidemiológicamente relevantes.
+e) Recepción, por la persona usuaria, de avisos sobre el riesgo efectivo en que se encuentre por ser contacto epidemiológicamente relevante de una persona diagnosticada de la enfermedad transmisible.
+f) Proporcionar a la persona usuaria el soporte digital de información o documentación individual relativa a sus circunstancias laborales y de localización geográfica u otras, con la finalidad de facilitar la aplicación de las medidas que se adopten por las autoridades competentes en la gestión de la crisis sanitaria, en la medida y en los términos que lo permitan las disposiciones o los actos que disciplinen tales medidas.
+Tanto en el desarrollo como en la puesta en marcha y en el funcionamiento de estos sistemas y aplicaciones y, posteriormente, en su desactivación se garantizará el necesario respeto a la normativa vigente en materia de protección de datos y confidencialidad de las comunicaciones.
+Se añade por el art. único.8 de la Ley 8/2021, de 25 de febrero. Ref. BOE-A-2021-5209

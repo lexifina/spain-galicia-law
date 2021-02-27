@@ -1,0 +1,8 @@
+Artículo 46 bis. Medidas de adopción directa por los agentes de las fuerzas y cuerpos de seguridad.
+1. En los casos de realización de actividades que conlleven un riesgo grave o peligro inminente para la salud de las personas, los agentes de los cuerpos y fuerzas de seguridad podrán adoptar de forma directa, previo requerimiento a las personas responsables de la realización de las mismas y en caso de que este no fuese atendido, las siguientes medidas:
+a) La suspensión inmediata de actividades y el desalojo y precinto de centros, servicios, establecimientos o instalaciones.
+b) Aquellas otras medidas que se estimen necesarias, en atención a las circunstancias concurrentes en cada caso, para garantizar la seguridad y salud de las personas, y que guarden la debida proporción en atención a los bienes y derechos objeto de protección.
+2. En caso de que los agentes adoptasen las medidas indicadas en el apartado anterior, habrán de comunicarlo inmediatamente al órgano competente de acuerdo con el artículo 46 para adoptar las medidas provisionales previas pertinentes, que deberá confirmarlas, modificarlas o levantarlas en el plazo de cuarenta y ocho horas desde la indicada comunicación. El incumplimiento de dicho plazo conlleva automáticamente el levantamiento de las medidas inmediatas adoptadas.
+3. Si el órgano indicado en el apartado anterior ratificase las medidas adoptadas, el régimen de confirmación, modificación o levantamiento posterior se regirá por lo que dispone el artículo 46.
+4. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de las medidas que pudieran adoptarse por la Administración general del Estado en ejercicio de sus competencias.
+Se añade por el art. único.19 de la Ley 8/2021, de 25 de febrero. Ref. BOE-A-2021-5209
