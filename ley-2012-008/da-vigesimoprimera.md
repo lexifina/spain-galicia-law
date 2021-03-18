@@ -1,0 +1,3 @@
+Disposición adicional vigesimoprimera. Exención en la aplicación de los requisitos para obtener la condición de persona beneficiaria de las ayudas del bono de alquiler social y del bono de alquiler social para víctimas de violencia de género otorgadas por la Administración autonómica.
+No será exigible el requisito de estar al corriente en el cumplimiento de las obligaciones tributarias y frente a la Seguridad Social para obtener la condición de persona beneficiaria de las ayudas del bono de alquiler social y del bono de alquiler social para víctimas de violencia de género otorgadas por la Administración autonómica, debido a la naturaleza social de estas subvenciones.
+Se añade por la disposición final 7.12 de la Ley 9/2021, de 25 de febrero. Ref. BOE-A-2021-5210#df-7
