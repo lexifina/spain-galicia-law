@@ -1,0 +1,5 @@
+Artículo 122 quinquies. Sociedades de fomento forestal.
+1. A los efectos de la presente ley, serán consideradas como sociedades de fomento forestal aquellas agrupaciones de gestión conjunta constituidas por entidades que tengan la forma de sociedades mercantiles reguladas en la legislación de sociedades de capital o de sociedades reguladas por la legislación civil. Para mejorar la sostenibilidad de las agrupaciones, también podrán incluirse en la agrupación personas propietarias o titulares de derechos de uso de parcelas no forestales.
+2. En el caso de las sociedades de fomento forestal, podrán pertenecer a la sociedad personas físicas o jurídicas que no sean titulares de derechos de uso de parcelas siempre que su participación en conjunto no supere, en ningún caso, el 49 % de las acciones o participaciones sociales.
+3. Mediante desarrollo reglamentario, se determinarán los requisitos adicionales que deberán cumplir estas sociedades, su objeto y finalidad y otras particularidades de su régimen jurídico.
+Se añade por la disposición final 3.18 de la Ley 11/2021, de 14 de mayo. Ref. BOE-A-2021-10669#df-3
