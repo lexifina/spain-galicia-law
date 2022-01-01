@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas las disposiciones de igual o inferior rango que se opongan a lo previsto en la presente ley y, expresamente, la Ley 15/2016, de 28 de julio, del Plan Gallego de Estadística 2017-2021, sin perjuicio de lo que se refiere a la ejecución y al seguimiento del Programa anual 2021 y a la evaluación del Plan gallego de estadística 2017-2021.
