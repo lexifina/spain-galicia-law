@@ -3,6 +3,8 @@ MANUEL FRAGA IRIBARNE,
 Presidente
 ANEXOS
 [Anexos omitidos. Consulte el PDF original] y sus modificaciones:
+- Anexos 1, 2 y 3. por Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
+Redactado conforme a la corrección de errores publicada en DOG núm. 33, de 17 de febrero de 2022. Ref. DOG-g-2022-90043
 - Anexos 1, 2, 3 y 5, por Ley 4/2021, de 28 de enero. Ref. BOE-A-2021-4633
 - Anexo 2, por Ley 9/2019, de 11 de diciembre. Ref. BOE-A-2020-90002
 - Anexos 1 a 5, por Ley 7/2019, de 23 de diciembre. Ref. BOE-A-2020-1849

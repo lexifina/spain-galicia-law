@@ -1,7 +1,7 @@
 Artículo 13 ter. Deducciones en la cuota del impuesto sobre el patrimonio.
 Uno. Deducción por creación de nuevas empresas o ampliación de la actividad de empresas de reciente creación.
 Si entre los bienes o derechos de contenido económico computados para la determinación de la base imponible figura alguno al que se le aplicaron las deducciones en la cuota íntegra autonómica del impuesto sobre la renta de las personas físicas relativas a la creación de nuevas empresas o ampliación de la actividad de empresas de reciente creación, o inversión en la adquisición de acciones o participaciones sociales en entidades nuevas o de reciente creación, el contribuyente podrá aplicar una deducción del 75 %, con un límite de 4.000 euros por sujeto pasivo, en la parte de la cuota que proporcionalmente corresponda a los mencionados bienes o derechos. El incumplimiento de los requisitos previstos en las deducciones del impuesto sobre la renta de las personas físicas determinará la pérdida de esta deducción.
-Esta deducción será incompatible con las establecidas en los números dos, tres, cinco y siete siguientes.
+Esta deducción será incompatible con las establecidas en los números dos y cinco siguientes.
 Dos. Deducción por inversiones en empresas agrarias.
 1. Los contribuyentes podrán aplicar una deducción del 100 % de la parte de la cuota del impuesto que proporcionalmente corresponda al valor de los siguientes bienes o derechos:
 a) Participaciones en el capital social de:
@@ -34,6 +34,7 @@ Seis. Deducción por incorporación de bienes y derechos a los instrumentos de m
 Si entre los bienes o derechos de contenido económico computados para la determinación de la base imponible se hubiesen incluido bienes incorporados a polígonos agroforestales, proyectos de aldeas modelo o agrupaciones de gestión conjunta previstos en la Ley 11/2021, de 14 de mayo, de recuperación de la tierra agraria de Galicia, el contribuyente podrá aplicar una deducción del 100 % en la parte de la cuota que proporcionalmente corresponda a dichos bienes o derechos, siempre que dicha adscripción se mantenga durante un plazo de, al menos, cinco años.
 Los citados bienes y derechos deberán estar inscritos en los registros que resulten de aplicación, conforme a lo previsto en la Ley de recuperación de la tierra agraria de Galicia.
 Esta deducción será incompatible con la aplicación para los mismos bienes o derechos de las exenciones del artículo 4 de la Ley 19/1991, de 6 de junio, del impuesto sobre el patrimonio, aunque dicha exención sea parcial.
+Se modifica el apartado uno por el art. 2.2 de la Ley 18/2021, de 27 de diciembre. Ref. BOE-A-2022-3415
 Se modifica el apartado dos, se suprime el tercer párrafo del apartado cuatro, se suprimen los apartados tres y cinco y se renumeran los restantes y se añade el apartado seis por la disposición final 1.11 a 14 de la Ley 11/2021, de 14 de mayo. Ref. BOE-A-2021-10669#df
 Se modifica por el art. 2 de la Ley 9/2017, de 26 de diciembre. Ref. BOE-A-2018-1753
 Se añade, con efectos de 1 de enero de 2013, por la disposición final 1.5 de la Ley 9/2013, de 19 de diciembre. Ref. BOE-A-2014-883#dfprimera.
