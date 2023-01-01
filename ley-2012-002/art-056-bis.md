@@ -1,0 +1,4 @@
+Artículo 56 bis. Reclamación de costes derivados del control de la vigilancia del mercado en caso de incumplimiento.
+La administración competente en materia de consumo podrá reclamar al operador económico la totalidad de los costes derivados del control de la vigilancia del mercado en caso de incumplimiento, de conformidad con lo establecido en el artículo 15 del Reglamento (UE) 2019/1020 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativo a la vigilancia del mercado y la conformidad de los productos y por el que se modifican la Directiva 2004/42/CE y los Reglamentos (CE) n.º 765/2008 y (UE) n.º 305/2011.
+Los costes indicados tendrán la consideración de créditos de derecho público y, una vez dictado el acto de liquidación, podrán exigirse de acuerdo con lo establecido en las normas que regulan el procedimiento de recaudación.
+Se añade por el art. 51.3 de la Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
