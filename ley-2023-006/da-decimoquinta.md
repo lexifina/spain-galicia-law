@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Expropiaciones.
+Se declaran de utilidad pública las obras de primer establecimiento, reforma, restauración, rehabilitación o gran reparación de inmuebles destinados a albergar edificios administrativos tal y como se definen en el artículo 185, que dependan de la Comunidad Autónoma en su ámbito territorial, a efectos de la expropiación forzosa de los bienes o derechos necesarios para la realización de las obras o el establecimiento de los servicios.

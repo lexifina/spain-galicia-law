@@ -1,0 +1,3 @@
+Disposición adicional decimosexta. Derechos de adquisición preferente en materia de patrimonio cultural, natural y forestal.
+En defecto de regulación específica, en materia de patrimonio cultural, natural y forestal, cuando una norma atribuya a la Administración general de la Comunidad Autónoma un derecho de adquisición preferente sobre un determinado tipo de bienes y derechos, la competencia para la adquisición onerosa corresponderá a la persona titular de la consejería competente en razón de la materia, previo informe del órgano directivo competente en materia de patrimonio.
+La consejería competente en razón de la materia sustituirá a la consejería competente en materia de patrimonio en todos los trámites regulados en el artículo 64.

@@ -1,0 +1,2 @@
+Disposición adicional vigesimosegunda. Deudas y embargos.
+Cuando para hacer efectivas las obligaciones económicas de la Administración general de la Comunidad Autónoma o de sus entidades públicas instrumentales se procediese al embargo y realización forzosa de un bien o derecho patrimonial, o se compensase la deuda con un crédito procedente de otra consejería o entidad pública instrumental, la consejería competente en materia de presupuestos tramitará una retención de crédito de no disponibilidad en el presupuesto de la consejería o entidad pública de quien proceda la deuda.

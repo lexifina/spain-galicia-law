@@ -1,0 +1,2 @@
+Disposición adicional vigesimoprimera. Cámaras agrarias.
+Los bienes inmuebles de titularidad de la Administración general de la Comunidad Autónoma de Galicia procedentes de las extintas cámaras agrarias locales y provinciales podrán ser destinados a otros usos distintos de los agrarios, siempre que las consejerías o entidades públicas instrumentales interesadas incrementen el crédito de la consejería competente en materia de agricultura por el importe del valor del bien para destinar a fines agrarios.

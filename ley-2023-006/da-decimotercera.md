@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Parques científicos y tecnológicos.
+1. El valor de las parcelas de titularidad de la Administración general de la Comunidad Autónoma, ubicadas en parques científicos y tecnológicos de la Comunidad Autónoma de Galicia, será determinado mediante acuerdo del Consejo de la Xunta, a propuesta de la consejería competente en materia de patrimonio, pudiendo establecerse por razones de especial idoneidad e interés público un valor distinto al de mercado.
+2. Asimismo, el valor de las parcelas que sean titularidad del Parque Tecnológico de Galicia, S.A., será determinado por su órgano competente de gobierno, pudiendo establecerse por razones de especial idoneidad e interés público un valor distinto al de mercado.
