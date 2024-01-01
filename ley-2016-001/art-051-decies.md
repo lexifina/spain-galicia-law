@@ -1,0 +1,3 @@
+Artículo 51 decies. Régimen del personal.
+El personal al servicio de la Autoridad se integrará en la relación de puestos de trabajo del Valedor del Pueblo, aprobada por la Mesa del Parlamento de Galicia a propuesta del Valedor del Pueblo. El Valedor del Pueblo podrá nombrar, para el ejercicio de las funciones previstas en este capítulo, personal asesor adicional al establecido en el artículo 10 de la Ley 6/1984, de 5 de junio, del Valedor del Pueblo, con respeto de los límites presupuestarios y progresivamente en función de la carga de trabajo.
+Se añade por el art. 54.4 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777

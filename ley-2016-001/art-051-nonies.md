@@ -1,0 +1,4 @@
+Artículo 51 nonies. Colaboración con la Autoridad Gallega de Protección de la Persona Informante.
+1. Los sujetos incluidos en el ámbito de aplicación de este capítulo prestarán la colaboración necesaria a la Autoridad Gallega de Protección de la Persona Informante para el correcto desarrollo de sus funciones, facilitando la información que les solicite en su respectivo ámbito competencial.
+2. La Autoridad podrá solicitar valoraciones periciales o técnicas sobre los hechos contenidos en las informaciones o comunicaciones al sector público autonómico o local o a los órganos estatutarios cuando puedan aportarlos por su competencia en la materia objeto de la instrucción. Deberán aportarse en el plazo de un mes desde su solicitud.
+Se añade por el art. 54.4 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777

@@ -1,0 +1,3 @@
+Artículo 3 bis. Tratamiento fiscal de las uniones estables de pareja.
+A los efectos de la aplicación de lo establecido en los capítulos II y IV del título II, se equiparan al matrimonio las uniones de dos personas mayores de edad, capaces, que convivan con la intención o vocación de permanencia en una relación de afectividad análoga a la conyugal, inscritas en el Registro de Parejas de Hecho de Galicia, y que expresen su voluntad de equiparar sus efectos a los del matrimonio, o que estén inscritas en cualquier otro registro público análogo de otras administraciones públicas de estados miembros de la Unión Europea, de estados integrantes del Espacio Económico Europeo o de países terceros.
+Se añade por el art. 1 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777

@@ -1,0 +1,3 @@
+Disposición adicional vigesimoquinta. Régimen de la vivienda protegida a los efectos de lo previsto en la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda.
+A los efectos de lo previsto en el artículo 16 y en la disposición transitoria primera de la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda, el destino, régimen de ocupación, duración del régimen de protección y demás aspectos del régimen jurídico aplicable a la vivienda protegida en Galicia es el previsto en la legislación autonómica en materia de vivienda, con independencia de que el suelo sobre el que se edifiquen las viviendas sea o no de reserva.
+Se añade por el art. 9.3 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777

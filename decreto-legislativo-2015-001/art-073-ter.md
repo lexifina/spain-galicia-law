@@ -1,0 +1,4 @@
+Artículo 73 ter. Información de interés general sobre el Plan autonómico de impulso y aceleración de proyectos industriales.
+1. La consejería competente en materia de industria dará publicidad a la evolución y a los principales indicadores del Plan autonómico de impulso y aceleración de los proyectos industriales, incluyendo la relación de proyectos incluidos y su estado de tramitación, y los convenios de colaboración formalizados con los ayuntamientos para lograr la puesta en marcha del proyecto industrial, manteniendo actualizada esta información en su página web.
+2. La información del estado y tramitación incluirá, en particular, la información sobre las autorizaciones autonómicas o sectoriales y las licencias urbanísticas, incluyendo los plazos de emisión de acuerdo con la normativa vigente, su emisión o denegación, o su no emisión en los plazos legales.
+Se añade por el art. 41.6 de la Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
