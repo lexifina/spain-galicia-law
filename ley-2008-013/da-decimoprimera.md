@@ -1,0 +1,4 @@
+Disposición adicional decimoprimera. Formación.
+La Administración autonómica desarrollará un plan de formación con la finalidad de facilitar la adquisición de las competencias y habilidades necesarias para la gestión de los procedimientos de dependencia y discapacidad.
+En concreto, para las/los trabajadoras/res sociales de referencia, se realizarán periódicamente sesiones divulgativas, campañas de difusión, instrucciones o cualquier otra actuación orientada a los trabajadores sociales de referencia, con la finalidad de proporcionarles información actualizada con las modificaciones normativas, novedades de gestión y otros cambios relativos a los procedimientos de reconocimiento de la situación de dependencia y discapacidad.
+Se añade por el art. 45.4 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145

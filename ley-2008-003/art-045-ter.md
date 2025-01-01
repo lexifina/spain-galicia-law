@@ -1,0 +1,7 @@
+Artículo 45 ter. Procedimiento de declaración de municipio minero.
+1. El procedimiento para la obtención de la condición de municipio minero se iniciará mediante la presentación de solicitud por parte del municipio o municipios afectados, a la que se acompañará la documentación que justifique el cumplimiento de alguna de las circunstancias establecidas en el artículo 45 y que permiten la consideración del municipio como minero.
+2. Durante la tramitación emitirá informe, con carácter preceptivo y vinculante, el centro directivo competente en materia de minas, para lo cual tendrá en cuenta la documentación aportada por el propio municipio y aquella otra que obre en poder del centro directivo, en relación con las circunstancias establecidas en el artículo 45 y que permiten la consideración del municipio como minero.
+3. Igualmente, si así lo considera necesario, la consejería competente en materia de minas podrá obtener de las consejerías y entidades del sector público autonómico que puedan resultar competentes todos los informes que estime convenientes o necesarios para motivar su propuesta, y en especial de los centros directivos competentes en materia de turismo y de patrimonio cultural.
+4. El Consejo de la Xunta de Galicia, previa propuesta de la consejería competente en materia de minas, será el órgano competente para la declaración de municipio minero.
+5. La declaración como municipio minero se inscribirá de oficio en el Registro de Municipios Mineros de Galicia.
+Se añade por el art. 54.5 de la Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
