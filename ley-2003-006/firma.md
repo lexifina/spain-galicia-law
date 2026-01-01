@@ -3,6 +3,7 @@ MANUEL FRAGA IRIBARNE,
 Presidente
 ANEXOS
 [Anexos omitidos. Consulte el PDF original] y sus modificaciones:
+- Anexos 1, 2 y 3 por Ley 5/2025, de 23 de diciembre. Ref. BOE-A-2026-3385
 - Anexos 1, 2 y 3 por Ley 5/2024, de 27 de diciembre. Ref. BOE-A-2025-2145
 - Anexos 1 a 3 y 5 por Ley 10/2023, de 28 de diciembre. Ref. BOE-A-2024-2777
 - Anexos 1 a 5 por Ley 7/2022, de 27 de diciembre. Ref. BOE-A-2023-6382
