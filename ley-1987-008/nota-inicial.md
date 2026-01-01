@@ -1,1 +1,0 @@
-Téngase en cuenta la Ley 6/1988, de 11 de julio, por la que se fija la retroacción de efectos de la presente ley y la exención de tasas académicas y administrativas a los estudios de COU. Ref. BOE-A-1988-20378
