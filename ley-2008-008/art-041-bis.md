@@ -1,7 +1,7 @@
 Artículo 41 bis. Infracciones leves en materia de salud pública.
 Se tipifican como infracciones leves en salud pública, además de las establecidas en la legislación básica, las siguientes:
 a) El incumplimiento de la obligación de uso de mascarillas u otros medios de protección o el uso inadecuado de unas u otros, en los términos establecidos por la normativa sanitaria o por las medidas de prevención, órdenes, resoluciones o actos aprobados, por razones de protección de la salud pública, por las autoridades sanitarias competentes, si las repercusiones producidas han tenido una incidencia escasa o sin trascendencia directa en la salud de la población.
-b) El incumplimiento de la prohibición de consumo de bebidas alcohólicas en la vía pública, parques y plazas públicas y otros lugares de tránsito público, si las repercusiones producidas han tenido una incidencia escasa o sin trascendencia directa en la salud de la población.
+b) (Suprimida)
 c) (Anulada)
 d) (Anulada)
 e) (Anulada)
@@ -14,5 +14,6 @@ k) El incumplimiento, por parte de los establecimientos, locales de negocio, ins
 l) El incumplimiento de las medidas preventivas adoptadas por la autoridad sanitaria competente en materia de distancia de seguridad entre personas o entre mesas o agrupaciones de mesas en los locales abiertos al público y en terrazas al aire libre, si las repercusiones producidas han tenido una incidencia escasa o sin trascendencia directa en la salud de la población.
 m) El incumplimiento, por acción u omisión, de la normativa sanitaria vigente o de las medidas de prevención, órdenes, resoluciones o actos aprobados por las autoridades sanitarias competentes por razones de protección de la salud pública, si las repercusiones producidas han tenido una incidencia escasa o sin trascendencia directa en la salud de la población, y siempre que dicho incumplimiento no esté tipificado como infracción grave o muy grave.
 n) El incumplimiento, por parte de la persona titular de la instalación, establecimiento, empresa o actividad y con ocasión de su funcionamiento o desarrollo del deber de prevenir la comisión de alguna de las infracciones leves previstas en la presente ley por parte de las personas sujetas a su dependencia o vinculación.
+Se suprime la letra b), con efectos de 7 de marzo de 2026, por la disposición final 1.2 de la Ley 6/2025, de 23 de diciembre. Ref. BOE-A-2026-3386#df
 Se declaran inconstitucionales y nulas las letras c), d) e) y f), en la redacción dada por el art. único.12 Ley 8/2021, de 25 de febrero, por Sentencia del TC 136/2024, de 5 de noviembre. Ref. BOE-A-2024-25519
 Se añade por el art. único.12 de la Ley 8/2021, de 25 de febrero. Ref. BOE-A-2021-5209

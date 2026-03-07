@@ -2,10 +2,9 @@ Artículo 42 bis. Infracciones graves en materia de salud pública.
 Se tipifican como infracciones graves en salud pública, además de las establecidas en la legislación básica, las siguientes:
 a) La denegación de apoyo, auxilio o colaboración a las autoridades sanitarias o sus agentes, cuando no sea constitutivo de infracción muy grave.
 b) El incumplimiento de las instrucciones recibidas de la autoridad sanitaria competente, si conllevase daños para la salud, cuando no sea constitutivo de infracción muy grave.
-c) La realización de las conductas previstas en los apartados a), b), c), d), e), f), g), h), i), j), k), l) y m) del artículo 41 bis, cuando pudieran producir un riesgo o un daño grave para la salud de la población, siempre que no sean constitutivas de infracción muy grave.
+c) La realización de las conductas previstas en los apartados a), e), g), h), i), j), k), l) y m) del artículo 41 bis, cuando pudieran producir un riesgo o un daño grave para la salud de la población, siempre que no sean constitutivas de infracción muy grave.
 d) (Anulada)
 e) (Anulada)
-Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado de la letra c) y las letras d) y e), en la redacción dada por el art. único.13 Ley 8/2021, de 25 de febrero, por Sentencia del TC 136/2024, de 5 de noviembre. Ref. BOE-A-2024-25519
 f) La resistencia o la obstrucción frente a las autoridades sanitarias o sus agentes, o a las fuerzas y cuerpos de seguridad, en el cumplimiento o ejecución de aquellas actuaciones que fuesen exigibles de acuerdo con la normativa sanitaria en materia de salud pública o con las medidas de prevención, órdenes o instrucciones dictadas por la autoridad sanitaria competente en aplicación de dicha normativa.
 g) El incumplimiento de las obligaciones de comunicación de información y de otras obligaciones en materia de salud pública establecidas por la normativa sanitaria o por las medidas de prevención dictadas por la autoridad sanitaria competente en aplicación de dicha normativa, cuando revista carácter de gravedad.
 h) La falta de colaboración o la negativa a suministrar datos o facilitar información, o el suministro intencionado de datos falsos, incorrectos o incompletos a las autoridades sanitarias o a sus agentes en el desarrollo de las labores de inspección o control sanitarios o de investigación epidemiológica de brotes o situaciones de especial riesgo para la salud de la población, cuando no sea constitutiva de infracción muy grave.
@@ -14,5 +13,6 @@ j) La organización por cualquier medio de reuniones, fiestas o cualquier otro t
 k) La realización de otras conductas u omisiones que pudieran producir un riesgo o un daño grave para la salud de la población, cuando esta no sea constitutiva de infracción muy grave.
 l) El incumplimiento, por parte de la persona titular de la instalación, establecimiento, empresa o actividad y con ocasión de su funcionamiento o desarrollo, del deber de prevenir la comisión de alguna de las infracciones graves previstas en la presente ley por parte de las personas sujetas a su dependencia o vinculación.
 m) La reincidencia en la comisión de infracciones leves en los últimos doce meses.
+Se modifica la letra c), con efectos de 7 de marzo de 2026, por la disposición final 1.3 de la Ley 6/2025, de 23 de diciembre. Ref. BOE-A-2026-3386#df
 Se declara inconstitucional y nulo el inciso destacado de la letra c), y las letras d) y e) en la redacción dada por el art. único.13 Ley 8/2021, de 25 de febrero, por Sentencia del TC 136/2024, de 5 de noviembre. Ref. BOE-A-2024-25519
 Se añade por el art. único.13 de la Ley 8/2021, de 25 de febrero. Ref. BOE-A-2021-5209
