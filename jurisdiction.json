@@ -1,0 +1,11 @@
+{
+  "path": "es-ga",
+  "code": "ES-GA",
+  "name": "Galicia",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-galicia-law",
+  "build": "built: statute of autonomy and laws (217 norms, 1020 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
