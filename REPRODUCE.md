@@ -232,7 +232,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2011-009` | Ley 9/2011, de 9 de noviembre, de los medios públicos de comunicación audiovisual de Galicia. | 3 | 2011-12-17 to 2025-04-07 |
 | `decreto-legislativo-2015-002` | Decreto Legislativo 2/2015, de 12 de febrero, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de igualdad. | 5 | 2016-02-18 to 2023-12-31 |
 
-The build made 435 commits:
+The build made 440 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -244,7 +244,7 @@ Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 352 laws in the record.
-- 1367 tags.
+- 1368 tags.
 
 ## Dates
 
@@ -256,13 +256,13 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b65d3e897df9daccff9823d328250291288114cf6756a8e7a2151f6b040ae620` (37064981 bytes).
+- Corpus: sha256 `423275497e4cdf275be18034fbb9d081048dfa2f8aa588025f4d9a878d906506` (39510526 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1020 versions of 217 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -276,6 +276,9 @@ No second build of this corpus has been compared yet.
 - Included: the Estatuto de Autonomía (an Estatal Ley Orgánica), then the unit's Autonómico norms the BOE consolidates and marks as not exhausted (vigencia_agotada N), oldest first.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
+- Express retroactive effect: Ley 11/2021 final provision 10 gives final provision 1 paragraphs 1, 2 and 3 effect from 1 January 2021; Decreto Legislativo 1/2011 articles 3 and 5.
+- Express retroactive effect: Ley 9/2021 final provision 16 gives final provision 3 paragraph 3 effect from 26 October 2020; Ley 5/2017 transitional provision 4.
+- Express retroactive effect: Ley 2/2017 final provision 5 gives additional provision 3 effect from 1 January 2017; only that provision is present in this initial version; the rest starts 10 February 2017.
 
 ## What AI did and did not do
 
@@ -287,3 +290,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the BOE consolidated texts.
+- A model identified source date discrepancies and explicit retroactive clauses. Every law-text byte is retained from the previously published source-derived corpus; no law text was authored or corrected by a model.
+- A model identified source date discrepancies and explicit retroactive clauses. Every law-text byte is retained from the previously published source-derived corpus; no law text was authored or corrected by a model.

@@ -246,6 +246,19 @@
     "ley-2011-009"
    ],
    "sha256": "dbfc183f7ca14261957519a7645ecbd741d1b4e047b8a42f456b2ca04ba00e14"
+  },
+  "81-date-sanity-a6-q803.json": {
+   "acts": [
+    "decreto-legislativo-2011-001"
+   ],
+   "sha256": "7a85327727b306ab55000d5e21d0c1e6119f3e83836bbe8bcd2616774d0ed2fc"
+  },
+  "82-date-sanity-a6-q803.json": {
+   "acts": [
+    "ley-2017-002",
+    "ley-2017-005"
+   ],
+   "sha256": "765fc082a308047302d2121ffa0ff5327c7549609d5d89048932c33e93c617cd"
   }
  },
  "schema": 1
