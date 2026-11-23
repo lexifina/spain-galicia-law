@@ -1,11 +1,23 @@
 {
- "generated": "2026-11-23T01:09:37Z",
+ "generated": "2026-11-23T14:06:07Z",
  "latest": {
   "boe-autonomico|spain/galicia/acts": {
-   "attempt": 1,
-   "audit": null,
+   "attempt": 2,
+   "audit": {
+    "examples": [
+     "BOE-A-1983-23848: 1 of 35 blocks of the page not found here; 92 of 11234 letters here not on the page as such",
+     "BOE-A-1985-21380: 1 of 69 blocks of the page not found here; 6280 of 36767 letters here not on the page as such"
+    ],
+    "match_neither": 2,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
+    "sampled": 7,
+    "unread": 0
+   },
    "census": {
     "awaiting_text": 0,
+    "checked": 7,
     "current": 217,
     "gone": 0,
     "held": 217,
@@ -17,33 +29,48 @@
     "repo": 217,
     "source_in_scope": 217
    },
-   "check_id": "es-boe-autonomico-20261123T010821Z",
+   "check_id": "es-boe-autonomico-20261123T140025Z",
    "commits": null,
    "corpus": "spain/galicia/acts",
    "error": null,
-   "finished": "2026-11-23T01:08:22Z",
-   "flags": [],
+   "finished": "2026-11-23T14:01:02Z",
+   "flags": [
+    {
+     "detail": "2 of 7 read again by a second route disagree",
+     "flag": "audit-disagrees"
+    }
+   ],
    "gap": 0,
-   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-10-30; first check: the BOE's entries were recorded as the baseline for the next check",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 10,
-   "runner": "lawwatch spain (f95b387938)",
+   "requests": 24,
+   "runner": "lawwatch spain (f13b561b4f)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-20T13:08:24Z",
+   "snapshot": "2026-11-23T13:21:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T01:08:21Z",
+   "started": "2026-11-23T14:00:25Z",
    "unexplained": 0,
-   "verify": null
+   "verify": {
+    "cycle_days": 30,
+    "examples": [],
+    "held": 192,
+    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 7 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (7 of 192 swept this check)",
+    "ok": true,
+    "swept": 7,
+    "unread": 0,
+    "versions_checked": 7,
+    "versions_differ": 0
+   }
   }
  },
  "schema": "lexifina-check/1"
