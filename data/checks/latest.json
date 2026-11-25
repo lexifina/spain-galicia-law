@@ -1,12 +1,14 @@
 {
- "generated": "2026-11-24T07:30:05Z",
+ "generated": "2026-11-25T06:29:44Z",
  "latest": {
   "boe-autonomico|spain/galicia/acts": {
    "attempt": 1,
    "audit": {
-    "examples": [],
-    "match_neither": 0,
-    "match_new": 7,
+    "examples": [
+     "BOE-A-1990-3358: 1 of 52 blocks of the page not found here; 129 of 40960 letters here not on the page as such"
+    ],
+    "match_neither": 1,
+    "match_new": 6,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 7,
@@ -26,14 +28,19 @@
     "repo": 217,
     "source_in_scope": 217
    },
-   "check_id": "es-boe-autonomico-20261124T072527Z",
+   "check_id": "es-boe-autonomico-20261125T062518Z",
    "commits": null,
    "corpus": "spain/galicia/acts",
    "error": null,
-   "finished": "2026-11-24T07:26:07Z",
-   "flags": [],
+   "finished": "2026-11-25T06:25:55Z",
+   "flags": [
+    {
+     "detail": "1 of 7 read again by a second route disagree",
+     "flag": "audit-disagrees"
+    }
+   ],
    "gap": 0,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 06:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261124T062451Z); this repository's data run to 2026-10-30",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 05:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261125T052409Z); this repository's data run to 2026-10-30",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -41,16 +48,16 @@
     "removed": []
    },
    "requests": 25,
-   "runner": "lawwatch spain (3a3ae06cd1)",
+   "runner": "lawwatch spain (e9c9e7e229)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-23T14:01:19Z",
+   "snapshot": "2026-11-24T12:36:43Z",
    "source": "boe-autonomico",
-   "started": "2026-11-24T07:25:27Z",
+   "started": "2026-11-25T06:25:18Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
