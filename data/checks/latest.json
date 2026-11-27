@@ -1,16 +1,17 @@
 {
- "generated": "2026-11-26T06:34:23Z",
+ "generated": "2026-11-27T06:34:13Z",
  "latest": {
   "boe-autonomico|spain/galicia/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1993-21943: 1 of 28 blocks of the page not found here; 117 of 24496 letters here not on the page as such",
-     "BOE-A-1995-14602: 0 of 66 blocks of the page not found here; 3302 of 38684 letters here not on the page as such",
-     "BOE-A-1996-10313: 0 of 33 blocks of the page not found here; 750 of 16235 letters here not on the page as such"
+     "BOE-A-1996-14650: 5 of 68 blocks of the page not found here; 4283 of 45222 letters here not on the page as such",
+     "BOE-A-1996-19261: 0 of 32 blocks of the page not found here; 6391 of 36325 letters here not on the page as such",
+     "BOE-A-1996-19262: 0 of 47 blocks of the page not found here; 2740 of 29464 letters here not on the page as such",
+     "BOE-A-1997-21040: 0 of 419 blocks of the page not found here; 18367 of 232859 letters here not on the page as such"
     ],
-    "match_neither": 3,
-    "match_new": 4,
+    "match_neither": 4,
+    "match_new": 3,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 7,
@@ -30,19 +31,19 @@
     "repo": 217,
     "source_in_scope": 217
    },
-   "check_id": "es-boe-autonomico-20261126T062944Z",
+   "check_id": "es-boe-autonomico-20261127T062945Z",
    "commits": null,
    "corpus": "spain/galicia/acts",
    "error": null,
-   "finished": "2026-11-26T06:30:21Z",
+   "finished": "2026-11-27T06:30:21Z",
    "flags": [
     {
-     "detail": "3 of 7 read again by a second route disagree",
+     "detail": "4 of 7 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
    "gap": 0,
-   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-10-30",
+   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-10-30",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -57,9 +58,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25T14:14:13Z",
+   "snapshot": "2026-11-26T13:04:42Z",
    "source": "boe-autonomico",
-   "started": "2026-11-26T06:29:44Z",
+   "started": "2026-11-27T06:29:45Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
